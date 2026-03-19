@@ -1,20 +1,214 @@
 {
-  "ルージュアッシュ": {"en": "Rouge H", "fr": "Rouge H", "zh": "酒红", "aliases": ["rouge h", "rougeh", "爱马仕红", "hermes red"]},
-  "ボルドー": {"en": "Bordeaux", "fr": "Bordeaux", "zh": "波尔多红", "aliases": ["bordeaux"]},
-  "ゴールド": {"en": "Gold", "fr": "Gold", "zh": "金棕", "aliases": ["gold"]},
-  "エベンヌ": {"en": "Ebene", "fr": "Ébène", "zh": "乌木棕", "aliases": ["ebene", "ébène"]},
-  "ローズアザレ": {"en": "Rose Azalee", "fr": "Rose Azalée", "zh": "杜鹃粉", "aliases": ["rose azalee", "rose azalée"]},
-  "ブラック": {"en": "Black", "fr": "Noir", "zh": "黑色", "aliases": ["black", "noir"]},
-  "ノワール": {"en": "Black", "fr": "Noir", "zh": "黑色", "aliases": ["black", "noir"]},
-  "エトゥープ": {"en": "Etoupe", "fr": "Étoupe", "zh": "大象灰", "aliases": ["etoupe", "étoupe"]},
-  "クレ": {"en": "Craie", "fr": "Craie", "zh": "奶油白", "aliases": ["craie", "clay"]},
-  "ブルーニュイ": {"en": "Blue Nuit", "fr": "Bleu Nuit", "zh": "午夜蓝", "aliases": ["blue nuit", "bleu nuit"]},
-  "ブルーフランス": {"en": "Blue France", "fr": "Bleu France", "zh": "法国蓝", "aliases": ["blue france", "bleu france"]},
-  "ブルーインディゴ": {"en": "Blue Indigo", "fr": "Bleu Indigo", "zh": "靛蓝", "aliases": ["blue indigo", "bleu indigo"]},
-  "オレンジ": {"en": "Orange", "fr": "Orange", "zh": "橙色", "aliases": ["orange"]},
-  "ヴェールフィズ": {"en": "Vert Fizz", "fr": "Vert Fizz", "zh": "薄荷绿", "aliases": ["vert fizz"]},
-  "ナタ": {"en": "Nata", "fr": "Nata", "zh": "奶白色", "aliases": ["nata", "奶昔白", "milkshake white"]},
-  "モーヴシルベストル": {"en": "Mauve Sylvestre", "fr": "Mauve Sylvestre", "zh": "锦葵紫", "aliases": ["mauve sylvestre", "锦葵紫", "mallow purple"]},
-  "ブルージーン": {"en": "Blue Jean", "fr": "Bleu Jean", "zh": "牛仔蓝", "aliases": ["blue jean", "bleu jean", "牛仔蓝"]},
-  "グリペール": {"en": "Pearl Grey", "fr": "Gris Perle", "zh": "珍珠灰", "aliases": ["gris perle", "pearl grey", "珍珠灰"]}
+  "ルージュアッシュ": {
+    "en": "Rouge H",
+    "fr": "Rouge H",
+    "zh": "酒红",
+    "aliases": [
+      "rouge h",
+      "rougeh",
+      "爱马仕红",
+      "hermes red"
+    ],
+    "official": true,
+    "ja": "ルージュアッシュ"
+  },
+  "ボルドー": {
+    "en": "Bordeaux",
+    "fr": "Bordeaux",
+    "zh": "波尔多红",
+    "aliases": [
+      "bordeaux"
+    ],
+    "official": true,
+    "ja": "ボルドー"
+  },
+  "ゴールド": {
+    "en": "Gold",
+    "fr": "Gold",
+    "zh": "金棕",
+    "aliases": [
+      "gold"
+    ],
+    "official": true,
+    "ja": "ゴールド"
+  },
+  "エベンヌ": {
+    "en": "Ebene",
+    "fr": "Ébène",
+    "zh": "乌木棕",
+    "aliases": [
+      "ebene",
+      "ébène"
+    ],
+    "official": true,
+    "ja": "エベンヌ"
+  },
+  "ローズアザレ": {
+    "en": "Rose Azalee",
+    "fr": "Rose Azalée",
+    "zh": "杜鹃粉",
+    "aliases": [
+      "rose azalee",
+      "rose azalée"
+    ],
+    "official": true,
+    "ja": "ローズアザレ"
+  },
+  "ブラック": {
+    "en": "Black",
+    "fr": "Noir",
+    "zh": "黑色",
+    "aliases": [
+      "black",
+      "noir"
+    ],
+    "official": true,
+    "ja": "ブラック"
+  },
+  "ノワール": {
+    "en": "Black",
+    "fr": "Noir",
+    "zh": "黑色",
+    "aliases": [
+      "black",
+      "noir"
+    ],
+    "official": true,
+    "ja": "ノワール"
+  },
+  "エトゥープ": {
+    "en": "Etoupe",
+    "fr": "Étoupe",
+    "zh": "大象灰",
+    "aliases": [
+      "etoupe",
+      "étoupe"
+    ],
+    "official": true,
+    "ja": "エトゥープ"
+  },
+  "クレ": {
+    "en": "Craie",
+    "fr": "Craie",
+    "zh": "奶油白",
+    "aliases": [
+      "craie",
+      "clay"
+    ],
+    "official": true,
+    "ja": "クレ"
+  },
+  "ブルーニュイ": {
+    "en": "Blue Nuit",
+    "fr": "Bleu Nuit",
+    "zh": "午夜蓝",
+    "aliases": [
+      "blue nuit",
+      "bleu nuit"
+    ],
+    "official": true,
+    "ja": "ブルーニュイ"
+  },
+  "ブルーフランス": {
+    "en": "Blue France",
+    "fr": "Bleu France",
+    "zh": "法国蓝",
+    "aliases": [
+      "blue france",
+      "bleu france"
+    ],
+    "official": true,
+    "ja": "ブルーフランス"
+  },
+  "ブルーインディゴ": {
+    "en": "Blue Indigo",
+    "fr": "Bleu Indigo",
+    "zh": "靛蓝",
+    "aliases": [
+      "blue indigo",
+      "bleu indigo"
+    ],
+    "official": true,
+    "ja": "ブルーインディゴ"
+  },
+  "オレンジ": {
+    "en": "Orange",
+    "fr": "Orange",
+    "zh": "橙色",
+    "aliases": [
+      "orange"
+    ],
+    "official": true,
+    "ja": "オレンジ"
+  },
+  "ヴェールフィズ": {
+    "en": "Vert Fizz",
+    "fr": "Vert Fizz",
+    "zh": "薄荷绿",
+    "aliases": [
+      "vert fizz"
+    ],
+    "official": true,
+    "ja": "ヴェールフィズ"
+  },
+  "ナタ": {
+    "en": "Nata",
+    "fr": "Nata",
+    "zh": "奶白色",
+    "aliases": [
+      "nata",
+      "奶昔白",
+      "milkshake white"
+    ],
+    "official": true,
+    "ja": "ナタ"
+  },
+  "モーヴシルベストル": {
+    "en": "Mauve Sylvestre",
+    "fr": "Mauve Sylvestre",
+    "zh": "锦葵紫",
+    "aliases": [
+      "mauve sylvestre",
+      "锦葵紫",
+      "mallow purple"
+    ],
+    "official": true,
+    "ja": "モーヴシルベストル"
+  },
+  "ブルージーン": {
+    "en": "Blue Jean",
+    "fr": "Bleu Jean",
+    "zh": "牛仔蓝",
+    "aliases": [
+      "blue jean",
+      "bleu jean",
+      "牛仔蓝"
+    ],
+    "official": true,
+    "ja": "ブルージーン"
+  },
+  "グリペール": {
+    "en": "Pearl Grey",
+    "fr": "Gris Perle",
+    "zh": "珍珠灰",
+    "aliases": [
+      "gris perle",
+      "pearl grey",
+      "珍珠灰"
+    ],
+    "official": true,
+    "ja": "グリペール"
+  },
+  "エタン": {
+    "ja": "エタン",
+    "en": "Etain",
+    "fr": "Étain",
+    "zh": "锡灰",
+    "aliases": [
+      "etain",
+      "étain",
+      "エタン"
+    ],
+    "official": true
+  }
 }

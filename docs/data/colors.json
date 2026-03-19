@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1773899027,
+  "generatedAt": 1773899186,
   "source": [
     "https://ginzacelia.com",
     "https://ginzaxiaoma.com"
@@ -8,7 +8,7 @@
     "celia_products": 553,
     "xiaoma_products": 16
   },
-  "count": 137,
+  "count": 135,
   "items": [
     {
       "ja": "Au",
@@ -42,42 +42,6 @@
           "hardware": "Gold hardware",
           "title": "Herbag PM Beton (8L) Fauve (34) Vache Hunter Toile Chevrons canvas Gold hardware",
           "url": "https://ginzaxiaoma.com/product/1007832",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Etain",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Etain"
-      ],
-      "examples": [
-        {
-          "bag": "Kelly",
-          "hardware": "Gold hardware",
-          "title": "Kelly 25 Etain (8F) Togo Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007834",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Etoupe",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Etoupe"
-      ],
-      "examples": [
-        {
-          "bag": "Kelly",
-          "hardware": "Palladium hardware",
-          "title": "Kelly 28 Etoupe (18) Clemence Palladium hardware",
-          "url": "https://ginzaxiaoma.com/product/1007856",
           "source": "xiaoma"
         }
       ]
@@ -121,38 +85,6 @@
           "hardware": "Rose Gold hardware",
           "title": "Kelly Pochette Mauve Sylvestre (X9) Swift Rose Gold hardware",
           "url": "https://ginzaxiaoma.com/product/1007849",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Noir",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Noir"
-      ],
-      "examples": [
-        {
-          "bag": "Kelly",
-          "hardware": "Palladium hardware",
-          "title": "Kelly 25 Noir (89) Togo Palladium hardware",
-          "url": "https://ginzaxiaoma.com/product/1007892",
-          "source": "xiaoma"
-        },
-        {
-          "bag": "Kelly",
-          "hardware": "Gold hardware",
-          "title": "Kelly 32 Noir (89) Matte Alligator Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007829",
-          "source": "xiaoma"
-        },
-        {
-          "bag": "Constance",
-          "hardware": "Enamel hardware",
-          "title": "Constance 24 Noir (89) Epsom Enamel hardware",
-          "url": "https://ginzaxiaoma.com/product/1007842",
           "source": "xiaoma"
         }
       ]
@@ -384,10 +316,30 @@
       ]
     },
     {
+      "ja": "エタン",
+      "en": "Etain",
+      "fr": "Étain",
+      "zh": "锡灰",
+      "aliases": [
+        "etain",
+        "étain",
+        "エタン"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "Gold hardware",
+          "title": "Kelly 25 Etain (8F) Togo Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007834",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
       "ja": "エトゥープ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Etoupe",
+      "fr": "Étoupe",
+      "zh": "大象灰",
       "aliases": [
         "etoupe",
         "étoupe",
@@ -491,14 +443,21 @@
           "title": "HERMES  エルメス  ピコタンロック18  エトゥープ  トリヨンクレマンス  シルバー金具  U 刻印",
           "url": "https://ginzacelia.com/products/hermes-18-u",
           "source": "celia"
+        },
+        {
+          "bag": "Kelly",
+          "hardware": "Palladium hardware",
+          "title": "Kelly 28 Etoupe (18) Clemence Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007856",
+          "source": "xiaoma"
         }
       ]
     },
     {
       "ja": "エベンヌ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Ebene",
+      "fr": "Ébène",
+      "zh": "乌木棕",
       "aliases": [
         "ebene",
         "ébène",
@@ -548,9 +507,9 @@
     },
     {
       "ja": "オレンジ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Orange",
+      "fr": "Orange",
+      "zh": "橙色",
       "aliases": [
         "orange",
         "オレンジ"
@@ -729,9 +688,9 @@
     },
     {
       "ja": "クレ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Craie",
+      "fr": "Craie",
+      "zh": "奶油白",
       "aliases": [
         "craie",
         "clay",
@@ -891,9 +850,9 @@
     },
     {
       "ja": "グリペール",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Pearl Grey",
+      "fr": "Gris Perle",
+      "zh": "珍珠灰",
       "aliases": [
         "gris perle",
         "pearl grey",
@@ -991,9 +950,9 @@
     },
     {
       "ja": "ゴールド",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Gold",
+      "fr": "Gold",
+      "zh": "金棕",
       "aliases": [
         "gold",
         "ゴールド"
@@ -1445,9 +1404,9 @@
     },
     {
       "ja": "ナタ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Nata",
+      "fr": "Nata",
+      "zh": "奶白色",
       "aliases": [
         "nata",
         "奶昔白",
@@ -1598,9 +1557,9 @@
     },
     {
       "ja": "ノワール",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Black",
+      "fr": "Noir",
+      "zh": "黑色",
       "aliases": [
         "black",
         "noir",
@@ -1793,9 +1752,9 @@
     },
     {
       "ja": "ブラック",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Black",
+      "fr": "Noir",
+      "zh": "黑色",
       "aliases": [
         "black",
         "noir",
@@ -1807,7 +1766,7 @@
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ブラック  エプソン  ゴールド金具  G 刻印",
           "url": "https://ginzacelia.com/products/minikelly2-black-epsom-gold-g",
-          "source": "celia"
+          "source": "celia+xiaoma"
         },
         {
           "bag": "エールバッグ ジップ ミニ",
@@ -2040,9 +1999,9 @@
     },
     {
       "ja": "ブルーインディゴ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Blue Indigo",
+      "fr": "Bleu Indigo",
+      "zh": "靛蓝",
       "aliases": [
         "blue indigo",
         "bleu indigo",
@@ -2113,9 +2072,9 @@
     },
     {
       "ja": "ブルージーン",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Blue Jean",
+      "fr": "Bleu Jean",
+      "zh": "牛仔蓝",
       "aliases": [
         "blue jean",
         "bleu jean",
@@ -2162,9 +2121,9 @@
     },
     {
       "ja": "ブルーニュイ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Blue Nuit",
+      "fr": "Bleu Nuit",
+      "zh": "午夜蓝",
       "aliases": [
         "blue nuit",
         "bleu nuit",
@@ -2174,9 +2133,9 @@
     },
     {
       "ja": "ブルーフランス",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Blue France",
+      "fr": "Bleu France",
+      "zh": "法国蓝",
       "aliases": [
         "blue france",
         "bleu france",
@@ -2329,9 +2288,9 @@
     },
     {
       "ja": "ボルドー",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Bordeaux",
+      "fr": "Bordeaux",
+      "zh": "波尔多红",
       "aliases": [
         "bordeaux",
         "ボルドー"
@@ -2441,9 +2400,9 @@
     },
     {
       "ja": "モーヴシルベストル",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Mauve Sylvestre",
+      "fr": "Mauve Sylvestre",
+      "zh": "锦葵紫",
       "aliases": [
         "mauve sylvestre",
         "锦葵紫",
@@ -2570,9 +2529,9 @@
     },
     {
       "ja": "ルージュアッシュ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Rouge H",
+      "fr": "Rouge H",
+      "zh": "酒红",
       "aliases": [
         "rouge h",
         "rougeh",
@@ -2739,9 +2698,9 @@
     },
     {
       "ja": "ローズアザレ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Rose Azalee",
+      "fr": "Rose Azalée",
+      "zh": "杜鹃粉",
       "aliases": [
         "rose azalee",
         "rose azalée",
@@ -3017,9 +2976,9 @@
     },
     {
       "ja": "ヴェールフィズ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Vert Fizz",
+      "fr": "Vert Fizz",
+      "zh": "薄荷绿",
       "aliases": [
         "vert fizz",
         "ヴェールフィズ"

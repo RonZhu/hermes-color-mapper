@@ -135,6 +135,18 @@ def normalize_key(s: str):
     return re.sub(r"\s+", "", s).lower()
 
 
+def find_manual_alias(aliases: dict, color: str, key: str):
+    if color in aliases:
+        return aliases[color]
+    if key in aliases:
+        return aliases[key]
+    for _, v in aliases.items():
+        for a in v.get("aliases", []):
+            if normalize_key(a) == key:
+                return v
+    return {}
+
+
 def extract_celia_products():
     rows = []
     page = 1
@@ -203,7 +215,7 @@ def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, 
     entry = by_color[key]
     entry["ja"] = entry["ja"] or color_ja
 
-    manual = aliases.get(color_ja) or aliases.get(key) or {}
+    manual = find_manual_alias(aliases, color_ja, key)
     # Strict mode: never auto-fill multilingual names unless explicitly marked official.
     if manual.get("official") is True:
         for k in ["en", "fr", "zh", "ja"]:
@@ -257,6 +269,12 @@ def main():
         if not color_ja:
             continue
         key = normalize_key(color_ja)
+
+        manual = find_manual_alias(aliases, color_ja, key)
+        if manual.get("official") is True and manual.get("ja"):
+            color_ja = manual["ja"]
+            key = normalize_key(color_ja)
+
         upsert_entry(by_color, key, color_ja, aliases, model, hardware, row["title"], row["url"], row["source"])
 
     # ensure manual alias dictionary can create standalone entries (even if not seen in products yet)
