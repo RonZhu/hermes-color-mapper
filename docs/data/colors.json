@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1773883942,
+  "generatedAt": 1773897014,
   "source": "https://ginzacelia.com",
   "count": 120,
   "items": [
@@ -1242,6 +1242,8 @@
       "zh": "奶白色",
       "aliases": [
         "nata",
+        "奶昔白",
+        "milkshake white",
         "ナタ"
       ],
       "examples": [
@@ -2159,10 +2161,13 @@
     },
     {
       "ja": "モーヴシルベストル",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Mauve Sylvestre",
+      "fr": "Mauve Sylvestre",
+      "zh": "锦葵紫",
       "aliases": [
+        "mauve sylvestre",
+        "锦葵紫",
+        "mallow purple",
         "モーヴシルベストル"
       ],
       "examples": [
@@ -2297,6 +2302,8 @@
       "aliases": [
         "rouge h",
         "rougeh",
+        "爱马仕红",
+        "hermes red",
         "ルージュアッシュ"
       ],
       "examples": [

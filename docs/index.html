@@ -44,15 +44,33 @@
       return (s||'').toLowerCase().normalize('NFKC').replace(/\s+/g,' ').trim();
     }
 
+    const QUERY_SYNONYMS = {
+      '阳光红': ['ルージュピーマン','rouge piment','rouge','红色'],
+      '愛马仕红': ['ルージュアッシュ','rouge h','hermes red'],
+      '爱马仕红': ['ルージュアッシュ','rouge h','hermes red'],
+      '奶昔白': ['ナタ','nata','クレ','craie'],
+      '锦葵紫': ['モーヴシルベストル','mauve sylvestre']
+    };
+
+    function expandQuery(q){
+      const arr = [q];
+      const extra = QUERY_SYNONYMS[q] || [];
+      for(const x of extra) arr.push(norm(x));
+      return [...new Set(arr.filter(Boolean))];
+    }
+
     function score(item, q){
       if(!q) return 1;
+      const qs = expandQuery(q);
       const hay = [item.ja,item.en,item.fr,item.zh,...(item.aliases||[])].map(norm);
       let best = 0;
-      for(const h of hay){
-        if(!h) continue;
-        if(h===q) best = Math.max(best, 100);
-        else if(h.startsWith(q)) best = Math.max(best, 80);
-        else if(h.includes(q)) best = Math.max(best, 60);
+      for(const qq of qs){
+        for(const h of hay){
+          if(!h) continue;
+          if(h===qq) best = Math.max(best, 100);
+          else if(h.startsWith(qq)) best = Math.max(best, 80);
+          else if(h.includes(qq)) best = Math.max(best, 60);
+        }
       }
       return best;
     }
