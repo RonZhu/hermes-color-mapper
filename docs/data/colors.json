@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1773899186,
+  "generatedAt": 1773899299,
   "source": [
     "https://ginzacelia.com",
     "https://ginzaxiaoma.com"
@@ -8,7 +8,7 @@
     "celia_products": 553,
     "xiaoma_products": 16
   },
-  "count": 135,
+  "count": 154,
   "items": [
     {
       "ja": "Au",
@@ -24,24 +24,6 @@
           "hardware": "Palladium hardware",
           "title": "Kelly 32 Au Galop Craie (10) Rouge H (55) Fauve (34) Togo Sombrero Barenia Palladium hardware",
           "url": "https://ginzaxiaoma.com/product/1007828",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Beton",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Beton"
-      ],
-      "examples": [
-        {
-          "bag": "Herbag",
-          "hardware": "Gold hardware",
-          "title": "Herbag PM Beton (8L) Fauve (34) Vache Hunter Toile Chevrons canvas Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007832",
           "source": "xiaoma"
         }
       ]
@@ -162,24 +144,6 @@
       ]
     },
     {
-      "ja": "White",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "White"
-      ],
-      "examples": [
-        {
-          "bag": "Kelly",
-          "hardware": "Gold hardware",
-          "title": "Kelly 28 White (01) Evercolor Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007888",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
       "ja": "べトン",
       "en": "",
       "fr": "",
@@ -219,6 +183,17 @@
       ]
     },
     {
+      "ja": "アネモネ",
+      "en": "Anemone",
+      "fr": "Anemone",
+      "zh": "银莲花紫",
+      "aliases": [
+        "anemone",
+        "アネモネ"
+      ],
+      "examples": []
+    },
+    {
       "ja": "アルジャン",
       "en": "",
       "fr": "",
@@ -238,10 +213,11 @@
     },
     {
       "ja": "アルドワーズ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Ardoise",
+      "fr": "Ardoise",
+      "zh": "板岩灰",
       "aliases": [
+        "ardoise",
         "アルドワーズ"
       ],
       "examples": [
@@ -615,6 +591,18 @@
       ]
     },
     {
+      "ja": "カフェ",
+      "en": "Cafe",
+      "fr": "Café",
+      "zh": "咖啡棕",
+      "aliases": [
+        "cafe",
+        "café",
+        "カフェ"
+      ],
+      "examples": []
+    },
+    {
       "ja": "カーゴ",
       "en": "",
       "fr": "",
@@ -810,6 +798,51 @@
       ]
     },
     {
+      "ja": "グリアスファルト",
+      "en": "Gris Asphalte",
+      "fr": "Gris Asphalte",
+      "zh": "沥青灰",
+      "aliases": [
+        "gris asphalte",
+        "グリアスファルト"
+      ],
+      "examples": []
+    },
+    {
+      "ja": "グリエタン",
+      "en": "Gris Etain",
+      "fr": "Gris Étain",
+      "zh": "锡灰深灰",
+      "aliases": [
+        "gris etain",
+        "gris étain",
+        "グリエタン"
+      ],
+      "examples": []
+    },
+    {
+      "ja": "グリトゥル",
+      "en": "Gris Tourterelle",
+      "fr": "Gris Tourterelle",
+      "zh": "鸽灰",
+      "aliases": [
+        "gris tourterelle",
+        "グリトゥル"
+      ],
+      "examples": []
+    },
+    {
+      "ja": "グリネヴェ",
+      "en": "Gris Neve",
+      "fr": "Gris Neve",
+      "zh": "雪灰",
+      "aliases": [
+        "gris neve",
+        "グリネヴェ"
+      ],
+      "examples": []
+    },
+    {
       "ja": "グリパンタン",
       "en": "",
       "fr": "",
@@ -929,6 +962,17 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "グリメイヤー",
+      "en": "Gris Meyer",
+      "fr": "Gris Meyer",
+      "zh": "梅耶灰",
+      "aliases": [
+        "gris meyer",
+        "グリメイヤー"
+      ],
+      "examples": []
     },
     {
       "ja": "ゴーチーム",
@@ -1070,6 +1114,18 @@
       ]
     },
     {
+      "ja": "ショコラ",
+      "en": "Chocolate",
+      "fr": "Chocolat",
+      "zh": "巧克力棕",
+      "aliases": [
+        "chocolat",
+        "chocolate",
+        "ショコラ"
+      ],
+      "examples": []
+    },
+    {
       "ja": "ジョーヌシトロン",
       "en": "",
       "fr": "",
@@ -1086,6 +1142,17 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "ジョーヌナプル",
+      "en": "Jaune de Naples",
+      "fr": "Jaune de Naples",
+      "zh": "那不勒斯黄",
+      "aliases": [
+        "jaune de naples",
+        "ジョーヌナプル"
+      ],
+      "examples": []
     },
     {
       "ja": "ジョーヌプッサン",
@@ -1211,6 +1278,18 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "セレスト",
+      "en": "Celeste",
+      "fr": "Céleste",
+      "zh": "天青蓝",
+      "aliases": [
+        "celeste",
+        "céleste",
+        "セレスト"
+      ],
+      "examples": []
     },
     {
       "ja": "タッチ",
@@ -1354,10 +1433,11 @@
     },
     {
       "ja": "トレンチ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Trench",
+      "fr": "Trench",
+      "zh": "风衣灰",
       "aliases": [
+        "trench",
         "トレンチ"
       ],
       "examples": [
@@ -1594,10 +1674,12 @@
     },
     {
       "ja": "パールグレー",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Pearl Grey",
+      "fr": "Gris Perle",
+      "zh": "珍珠灰",
       "aliases": [
+        "pearl grey",
+        "gris perle",
         "パールグレー"
       ],
       "examples": [
@@ -1695,6 +1777,17 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "フォーヴ",
+      "en": "Fauve",
+      "fr": "Fauve",
+      "zh": "焦糖棕",
+      "aliases": [
+        "fauve",
+        "フォーヴ"
+      ],
+      "examples": []
     },
     {
       "ja": "フォーヴ ナチュラル",
@@ -1980,6 +2073,26 @@
       ]
     },
     {
+      "ja": "ブラン",
+      "en": "White",
+      "fr": "Blanc",
+      "zh": "白色",
+      "aliases": [
+        "white",
+        "blanc",
+        "ブラン"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "Gold hardware",
+          "title": "Kelly 28 White (01) Evercolor Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007888",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
       "ja": "ブルーアンクル",
       "en": "",
       "fr": "",
@@ -2011,10 +2124,12 @@
     },
     {
       "ja": "ブルーエレクトリック",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Blue Electric",
+      "fr": "Bleu Électrique",
+      "zh": "电光蓝",
       "aliases": [
+        "blue electric",
+        "bleu électrique",
         "ブルーエレクトリック"
       ],
       "examples": [
@@ -2069,6 +2184,30 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "ブルーサフィール",
+      "en": "Blue Saphir",
+      "fr": "Bleu Saphir",
+      "zh": "宝石蓝",
+      "aliases": [
+        "blue saphir",
+        "bleu saphir",
+        "ブルーサフィール"
+      ],
+      "examples": []
+    },
+    {
+      "ja": "ブルーザンジバル",
+      "en": "Blue Zanzibar",
+      "fr": "Bleu Zanzibar",
+      "zh": "桑给巴尔蓝",
+      "aliases": [
+        "blue zanzibar",
+        "bleu zanzibar",
+        "ブルーザンジバル"
+      ],
+      "examples": []
     },
     {
       "ja": "ブルージーン",
@@ -2224,10 +2363,12 @@
     },
     {
       "ja": "ベトン",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Beton",
+      "fr": "Béton",
+      "zh": "水泥灰",
       "aliases": [
+        "beton",
+        "béton",
         "ベトン"
       ],
       "examples": [
@@ -2265,6 +2406,13 @@
           "title": "HERMES  エルメス  ポシェットケリー  ベトン  オーストリッチ  シルバー金具  W 刻印",
           "url": "https://ginzacelia.com/products/hermes-w-11",
           "source": "celia"
+        },
+        {
+          "bag": "Herbag",
+          "hardware": "Gold hardware",
+          "title": "Herbag PM Beton (8L) Fauve (34) Vache Hunter Toile Chevrons canvas Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007832",
+          "source": "xiaoma"
         }
       ]
     },
@@ -2475,10 +2623,11 @@
     },
     {
       "ja": "ライム",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Lime",
+      "fr": "Lime",
+      "zh": "青柠黄",
       "aliases": [
+        "lime",
         "ライム"
       ],
       "examples": [
@@ -2589,6 +2738,17 @@
       ]
     },
     {
+      "ja": "ルージュカザック",
+      "en": "Rouge Casaque",
+      "fr": "Rouge Casaque",
+      "zh": "卡萨克红",
+      "aliases": [
+        "rouge casaque",
+        "ルージュカザック"
+      ],
+      "examples": []
+    },
+    {
       "ja": "ルージュグレナ",
       "en": "",
       "fr": "",
@@ -2608,10 +2768,11 @@
     },
     {
       "ja": "ルージュセリエ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Rouge Sellier",
+      "fr": "Rouge Sellier",
+      "zh": "马鞍红",
       "aliases": [
+        "rouge sellier",
         "ルージュセリエ"
       ],
       "examples": [
@@ -2623,6 +2784,29 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "ルージュトマト",
+      "en": "Rouge Tomato",
+      "fr": "Rouge Tomate",
+      "zh": "番茄红",
+      "aliases": [
+        "rouge tomate",
+        "rouge tomato",
+        "ルージュトマト"
+      ],
+      "examples": []
+    },
+    {
+      "ja": "ルージュピマン",
+      "en": "Rouge Piment",
+      "fr": "Rouge Piment",
+      "zh": "辣椒红",
+      "aliases": [
+        "rouge piment",
+        "ルージュピマン"
+      ],
+      "examples": []
     },
     {
       "ja": "ルージュピーマン",
@@ -2743,10 +2927,11 @@
     },
     {
       "ja": "ローズコンフェッティ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Rose Confetti",
+      "fr": "Rose Confetti",
+      "zh": "糖果粉",
       "aliases": [
+        "rose confetti",
         "ローズコンフェッティ"
       ],
       "examples": [
@@ -2761,10 +2946,11 @@
     },
     {
       "ja": "ローズサクラ",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Rose Sakura",
+      "fr": "Rose Sakura",
+      "zh": "樱花粉",
       "aliases": [
+        "rose sakura",
         "ローズサクラ"
       ],
       "examples": [
@@ -2939,6 +3125,28 @@
       ]
     },
     {
+      "ja": "ヴェールクリケット",
+      "en": "Vert Criquet",
+      "fr": "Vert Criquet",
+      "zh": "蟋蟀绿",
+      "aliases": [
+        "vert criquet",
+        "ヴェールクリケット"
+      ],
+      "examples": []
+    },
+    {
+      "ja": "ヴェールコミック",
+      "en": "Vert Comics",
+      "fr": "Vert Comics",
+      "zh": "漫画绿",
+      "aliases": [
+        "vert comics",
+        "ヴェールコミック"
+      ],
+      "examples": []
+    },
+    {
       "ja": "ヴェールコミック ヴェールヴェロン",
       "en": "",
       "fr": "",
@@ -2955,6 +3163,17 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "ヴェールジェイド",
+      "en": "Vert Jade",
+      "fr": "Vert Jade",
+      "zh": "翡翠绿",
+      "aliases": [
+        "vert jade",
+        "ヴェールジェイド"
+      ],
+      "examples": []
     },
     {
       "ja": "ヴェールデュー",
@@ -3089,6 +3308,18 @@
           "source": "celia"
         }
       ]
+    },
+    {
+      "ja": "ヴェールヴェローヌ",
+      "en": "Vert Verone",
+      "fr": "Vert Véronèse",
+      "zh": "维罗纳绿",
+      "aliases": [
+        "vert verone",
+        "vert véronèse",
+        "ヴェールヴェローヌ"
+      ],
+      "examples": []
     },
     {
       "ja": "外",

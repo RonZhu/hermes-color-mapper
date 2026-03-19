@@ -1,5 +1,6 @@
 {
   "ルージュアッシュ": {
+    "ja": "ルージュアッシュ",
     "en": "Rouge H",
     "fr": "Rouge H",
     "zh": "酒红",
@@ -7,10 +8,10 @@
       "rouge h",
       "rougeh",
       "爱马仕红",
-      "hermes red"
+      "hermes red",
+      "ルージュアッシュ"
     ],
-    "official": true,
-    "ja": "ルージュアッシュ"
+    "official": true
   },
   "ボルドー": {
     "en": "Bordeaux",
@@ -23,36 +24,39 @@
     "ja": "ボルドー"
   },
   "ゴールド": {
+    "ja": "ゴールド",
     "en": "Gold",
     "fr": "Gold",
     "zh": "金棕",
     "aliases": [
-      "gold"
+      "gold",
+      "ゴールド"
     ],
-    "official": true,
-    "ja": "ゴールド"
+    "official": true
   },
   "エベンヌ": {
+    "ja": "エベンヌ",
     "en": "Ebene",
     "fr": "Ébène",
     "zh": "乌木棕",
     "aliases": [
       "ebene",
-      "ébène"
+      "ébène",
+      "エベンヌ"
     ],
-    "official": true,
-    "ja": "エベンヌ"
+    "official": true
   },
   "ローズアザレ": {
+    "ja": "ローズアザレ",
     "en": "Rose Azalee",
     "fr": "Rose Azalée",
     "zh": "杜鹃粉",
     "aliases": [
       "rose azalee",
-      "rose azalée"
+      "rose azalée",
+      "ローズアザレ"
     ],
-    "official": true,
-    "ja": "ローズアザレ"
+    "official": true
   },
   "ブラック": {
     "en": "Black",
@@ -66,138 +70,150 @@
     "ja": "ブラック"
   },
   "ノワール": {
+    "ja": "ノワール",
     "en": "Black",
     "fr": "Noir",
     "zh": "黑色",
     "aliases": [
       "black",
-      "noir"
+      "noir",
+      "ノワール"
     ],
-    "official": true,
-    "ja": "ノワール"
+    "official": true
   },
   "エトゥープ": {
+    "ja": "エトゥープ",
     "en": "Etoupe",
     "fr": "Étoupe",
     "zh": "大象灰",
     "aliases": [
       "etoupe",
-      "étoupe"
+      "étoupe",
+      "エトゥープ"
     ],
-    "official": true,
-    "ja": "エトゥープ"
+    "official": true
   },
   "クレ": {
+    "ja": "クレ",
     "en": "Craie",
     "fr": "Craie",
     "zh": "奶油白",
     "aliases": [
       "craie",
-      "clay"
+      "clay",
+      "クレ"
     ],
-    "official": true,
-    "ja": "クレ"
+    "official": true
   },
   "ブルーニュイ": {
+    "ja": "ブルーニュイ",
     "en": "Blue Nuit",
     "fr": "Bleu Nuit",
     "zh": "午夜蓝",
     "aliases": [
       "blue nuit",
-      "bleu nuit"
+      "bleu nuit",
+      "ブルーニュイ"
     ],
-    "official": true,
-    "ja": "ブルーニュイ"
+    "official": true
   },
   "ブルーフランス": {
+    "ja": "ブルーフランス",
     "en": "Blue France",
     "fr": "Bleu France",
     "zh": "法国蓝",
     "aliases": [
       "blue france",
-      "bleu france"
+      "bleu france",
+      "ブルーフランス"
     ],
-    "official": true,
-    "ja": "ブルーフランス"
+    "official": true
   },
   "ブルーインディゴ": {
+    "ja": "ブルーインディゴ",
     "en": "Blue Indigo",
     "fr": "Bleu Indigo",
     "zh": "靛蓝",
     "aliases": [
       "blue indigo",
-      "bleu indigo"
+      "bleu indigo",
+      "ブルーインディゴ"
     ],
-    "official": true,
-    "ja": "ブルーインディゴ"
+    "official": true
   },
   "オレンジ": {
+    "ja": "オレンジ",
     "en": "Orange",
     "fr": "Orange",
     "zh": "橙色",
     "aliases": [
-      "orange"
+      "orange",
+      "オレンジ"
     ],
-    "official": true,
-    "ja": "オレンジ"
+    "official": true
   },
   "ヴェールフィズ": {
+    "ja": "ヴェールフィズ",
     "en": "Vert Fizz",
     "fr": "Vert Fizz",
     "zh": "薄荷绿",
     "aliases": [
-      "vert fizz"
+      "vert fizz",
+      "ヴェールフィズ"
     ],
-    "official": true,
-    "ja": "ヴェールフィズ"
+    "official": true
   },
   "ナタ": {
+    "ja": "ナタ",
     "en": "Nata",
     "fr": "Nata",
     "zh": "奶白色",
     "aliases": [
       "nata",
       "奶昔白",
-      "milkshake white"
+      "milkshake white",
+      "ナタ"
     ],
-    "official": true,
-    "ja": "ナタ"
+    "official": true
   },
   "モーヴシルベストル": {
+    "ja": "モーヴシルベストル",
     "en": "Mauve Sylvestre",
     "fr": "Mauve Sylvestre",
     "zh": "锦葵紫",
     "aliases": [
       "mauve sylvestre",
       "锦葵紫",
-      "mallow purple"
+      "mallow purple",
+      "モーヴシルベストル"
     ],
-    "official": true,
-    "ja": "モーヴシルベストル"
+    "official": true
   },
   "ブルージーン": {
+    "ja": "ブルージーン",
     "en": "Blue Jean",
     "fr": "Bleu Jean",
     "zh": "牛仔蓝",
     "aliases": [
       "blue jean",
       "bleu jean",
-      "牛仔蓝"
+      "牛仔蓝",
+      "ブルージーン"
     ],
-    "official": true,
-    "ja": "ブルージーン"
+    "official": true
   },
   "グリペール": {
+    "ja": "グリペール",
     "en": "Pearl Grey",
     "fr": "Gris Perle",
     "zh": "珍珠灰",
     "aliases": [
       "gris perle",
       "pearl grey",
-      "珍珠灰"
+      "珍珠灰",
+      "グリペール"
     ],
-    "official": true,
-    "ja": "グリペール"
+    "official": true
   },
   "エタン": {
     "ja": "エタン",
@@ -208,6 +224,348 @@
       "etain",
       "étain",
       "エタン"
+    ],
+    "official": true
+  },
+  "グリトゥル": {
+    "ja": "グリトゥル",
+    "en": "Gris Tourterelle",
+    "fr": "Gris Tourterelle",
+    "zh": "鸽灰",
+    "aliases": [
+      "gris tourterelle",
+      "グリトゥル"
+    ],
+    "official": true
+  },
+  "グリエタン": {
+    "ja": "グリエタン",
+    "en": "Gris Etain",
+    "fr": "Gris Étain",
+    "zh": "锡灰深灰",
+    "aliases": [
+      "gris etain",
+      "gris étain",
+      "グリエタン"
+    ],
+    "official": true
+  },
+  "グリアスファルト": {
+    "ja": "グリアスファルト",
+    "en": "Gris Asphalte",
+    "fr": "Gris Asphalte",
+    "zh": "沥青灰",
+    "aliases": [
+      "gris asphalte",
+      "グリアスファルト"
+    ],
+    "official": true
+  },
+  "グリメイヤー": {
+    "ja": "グリメイヤー",
+    "en": "Gris Meyer",
+    "fr": "Gris Meyer",
+    "zh": "梅耶灰",
+    "aliases": [
+      "gris meyer",
+      "グリメイヤー"
+    ],
+    "official": true
+  },
+  "グリネヴェ": {
+    "ja": "グリネヴェ",
+    "en": "Gris Neve",
+    "fr": "Gris Neve",
+    "zh": "雪灰",
+    "aliases": [
+      "gris neve",
+      "グリネヴェ"
+    ],
+    "official": true
+  },
+  "アルドワーズ": {
+    "ja": "アルドワーズ",
+    "en": "Ardoise",
+    "fr": "Ardoise",
+    "zh": "板岩灰",
+    "aliases": [
+      "ardoise",
+      "アルドワーズ"
+    ],
+    "official": true
+  },
+  "ベトン": {
+    "ja": "ベトン",
+    "en": "Beton",
+    "fr": "Béton",
+    "zh": "水泥灰",
+    "aliases": [
+      "beton",
+      "béton",
+      "ベトン"
+    ],
+    "official": true
+  },
+  "パールグレー": {
+    "ja": "パールグレー",
+    "en": "Pearl Grey",
+    "fr": "Gris Perle",
+    "zh": "珍珠灰",
+    "aliases": [
+      "pearl grey",
+      "gris perle",
+      "パールグレー"
+    ],
+    "official": true
+  },
+  "ブラン": {
+    "ja": "ブラン",
+    "en": "White",
+    "fr": "Blanc",
+    "zh": "白色",
+    "aliases": [
+      "white",
+      "blanc",
+      "ブラン"
+    ],
+    "official": true
+  },
+  "トレンチ": {
+    "ja": "トレンチ",
+    "en": "Trench",
+    "fr": "Trench",
+    "zh": "风衣灰",
+    "aliases": [
+      "trench",
+      "トレンチ"
+    ],
+    "official": true
+  },
+  "ショコラ": {
+    "ja": "ショコラ",
+    "en": "Chocolate",
+    "fr": "Chocolat",
+    "zh": "巧克力棕",
+    "aliases": [
+      "chocolat",
+      "chocolate",
+      "ショコラ"
+    ],
+    "official": true
+  },
+  "カフェ": {
+    "ja": "カフェ",
+    "en": "Cafe",
+    "fr": "Café",
+    "zh": "咖啡棕",
+    "aliases": [
+      "cafe",
+      "café",
+      "カフェ"
+    ],
+    "official": true
+  },
+  "フォーヴ": {
+    "ja": "フォーヴ",
+    "en": "Fauve",
+    "fr": "Fauve",
+    "zh": "焦糖棕",
+    "aliases": [
+      "fauve",
+      "フォーヴ"
+    ],
+    "official": true
+  },
+  "ルージュカザック": {
+    "ja": "ルージュカザック",
+    "en": "Rouge Casaque",
+    "fr": "Rouge Casaque",
+    "zh": "卡萨克红",
+    "aliases": [
+      "rouge casaque",
+      "ルージュカザック"
+    ],
+    "official": true
+  },
+  "ルージュトマト": {
+    "ja": "ルージュトマト",
+    "en": "Rouge Tomato",
+    "fr": "Rouge Tomate",
+    "zh": "番茄红",
+    "aliases": [
+      "rouge tomate",
+      "rouge tomato",
+      "ルージュトマト"
+    ],
+    "official": true
+  },
+  "ルージュピマン": {
+    "ja": "ルージュピマン",
+    "en": "Rouge Piment",
+    "fr": "Rouge Piment",
+    "zh": "辣椒红",
+    "aliases": [
+      "rouge piment",
+      "ルージュピマン"
+    ],
+    "official": true
+  },
+  "ルージュセリエ": {
+    "ja": "ルージュセリエ",
+    "en": "Rouge Sellier",
+    "fr": "Rouge Sellier",
+    "zh": "马鞍红",
+    "aliases": [
+      "rouge sellier",
+      "ルージュセリエ"
+    ],
+    "official": true
+  },
+  "ローズサクラ": {
+    "ja": "ローズサクラ",
+    "en": "Rose Sakura",
+    "fr": "Rose Sakura",
+    "zh": "樱花粉",
+    "aliases": [
+      "rose sakura",
+      "ローズサクラ"
+    ],
+    "official": true
+  },
+  "ローズコンフェッティ": {
+    "ja": "ローズコンフェッティ",
+    "en": "Rose Confetti",
+    "fr": "Rose Confetti",
+    "zh": "糖果粉",
+    "aliases": [
+      "rose confetti",
+      "ローズコンフェッティ"
+    ],
+    "official": true
+  },
+  "アネモネ": {
+    "ja": "アネモネ",
+    "en": "Anemone",
+    "fr": "Anemone",
+    "zh": "银莲花紫",
+    "aliases": [
+      "anemone",
+      "アネモネ"
+    ],
+    "official": true
+  },
+  "ヴェールコミック": {
+    "ja": "ヴェールコミック",
+    "en": "Vert Comics",
+    "fr": "Vert Comics",
+    "zh": "漫画绿",
+    "aliases": [
+      "vert comics",
+      "ヴェールコミック"
+    ],
+    "official": true
+  },
+  "ヴェールヴェローヌ": {
+    "ja": "ヴェールヴェローヌ",
+    "en": "Vert Verone",
+    "fr": "Vert Véronèse",
+    "zh": "维罗纳绿",
+    "aliases": [
+      "vert verone",
+      "vert véronèse",
+      "ヴェールヴェローヌ"
+    ],
+    "official": true
+  },
+  "ヴェールクリケット": {
+    "ja": "ヴェールクリケット",
+    "en": "Vert Criquet",
+    "fr": "Vert Criquet",
+    "zh": "蟋蟀绿",
+    "aliases": [
+      "vert criquet",
+      "ヴェールクリケット"
+    ],
+    "official": true
+  },
+  "ヴェールジェイド": {
+    "ja": "ヴェールジェイド",
+    "en": "Vert Jade",
+    "fr": "Vert Jade",
+    "zh": "翡翠绿",
+    "aliases": [
+      "vert jade",
+      "ヴェールジェイド"
+    ],
+    "official": true
+  },
+  "ブルーサフィール": {
+    "ja": "ブルーサフィール",
+    "en": "Blue Saphir",
+    "fr": "Bleu Saphir",
+    "zh": "宝石蓝",
+    "aliases": [
+      "blue saphir",
+      "bleu saphir",
+      "ブルーサフィール"
+    ],
+    "official": true
+  },
+  "ブルーエレクトリック": {
+    "ja": "ブルーエレクトリック",
+    "en": "Blue Electric",
+    "fr": "Bleu Électrique",
+    "zh": "电光蓝",
+    "aliases": [
+      "blue electric",
+      "bleu électrique",
+      "ブルーエレクトリック"
+    ],
+    "official": true
+  },
+  "ブルーザンジバル": {
+    "ja": "ブルーザンジバル",
+    "en": "Blue Zanzibar",
+    "fr": "Bleu Zanzibar",
+    "zh": "桑给巴尔蓝",
+    "aliases": [
+      "blue zanzibar",
+      "bleu zanzibar",
+      "ブルーザンジバル"
+    ],
+    "official": true
+  },
+  "セレスト": {
+    "ja": "セレスト",
+    "en": "Celeste",
+    "fr": "Céleste",
+    "zh": "天青蓝",
+    "aliases": [
+      "celeste",
+      "céleste",
+      "セレスト"
+    ],
+    "official": true
+  },
+  "ジョーヌナプル": {
+    "ja": "ジョーヌナプル",
+    "en": "Jaune de Naples",
+    "fr": "Jaune de Naples",
+    "zh": "那不勒斯黄",
+    "aliases": [
+      "jaune de naples",
+      "ジョーヌナプル"
+    ],
+    "official": true
+  },
+  "ライム": {
+    "ja": "ライム",
+    "en": "Lime",
+    "fr": "Lime",
+    "zh": "青柠黄",
+    "aliases": [
+      "lime",
+      "ライム"
     ],
     "official": true
   }
