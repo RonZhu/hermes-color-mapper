@@ -72,12 +72,31 @@ def detect_model(tokens):
     return ""
 
 
-def detect_hardware(tokens):
+def detect_hardware(tokens, title=""):
     found = []
-    for t in tokens:
+    joined = " ".join(tokens)
+    haystacks = [title, joined] + tokens
+
+    for hs in haystacks:
+        if not hs:
+            continue
         for h in HARDWARE_HINTS_JA + HARDWARE_HINTS_EN:
-            if h in t:
+            if h in hs:
                 found.append(h)
+
+        # Generic JP capture: something金具 (e.g. エレクトラム金具)
+        for m in re.finditer(r"([ァ-ヶ一-龯A-Za-z・ー\-]{1,16}金具)", hs):
+            found.append(m.group(1).strip())
+
+        # Generic EN capture: XXX hardware
+        for m in re.finditer(r"((?:Rose\s+Gold|Gold|Silver|Palladium|Permabrass|Enamel|Electrum)\s+hardware)", hs, re.I):
+            v = " ".join(m.group(1).split())
+            # normalize casing for consistency
+            parts = v.split(" ")
+            if len(parts) >= 2:
+                v = " ".join([parts[0].title(), parts[1].lower()])
+            found.append(v)
+
     return list(dict.fromkeys(found))
 
 
@@ -199,7 +218,7 @@ def main():
         model = detect_model(tokens)
         if not model:
             continue
-        hardware = detect_hardware(tokens)
+        hardware = detect_hardware(tokens, row["title"])
         color_ja = infer_color(tokens, model, hardware)
         if not color_ja:
             continue
