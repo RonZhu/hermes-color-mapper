@@ -165,47 +165,53 @@ def infer_color_from_official_aliases(title: str, aliases: dict) -> str:
 
 def extract_celia_products():
     rows = []
-    page = 1
-    while True:
-        data = fetch_json(f"{CELIA_BASE}/products.json?limit={LIMIT}&page={page}")
-        products = data.get("products", [])
-        if not products:
-            break
-        for p in products:
-            title = p.get("title", "")
-            if not title:
-                continue
-            rows.append({
-                "title": title,
-                "url": f"{CELIA_BASE}/products/{p.get('handle','')}",
-                "source": "celia",
-            })
-        if len(products) < LIMIT:
-            break
-        page += 1
-        time.sleep(SLEEP_SEC)
+    # Celia has reliable JA + EN product feeds
+    for locale, prefix in [("ja", ""), ("en", "/en")]:
+        page = 1
+        while True:
+            data = fetch_json(f"{CELIA_BASE}{prefix}/products.json?limit={LIMIT}&page={page}")
+            products = data.get("products", [])
+            if not products:
+                break
+            for p in products:
+                title = p.get("title", "")
+                if not title:
+                    continue
+                rows.append({
+                    "title": title,
+                    "url": f"{CELIA_BASE}/products/{p.get('handle','')}",
+                    "source": "celia",
+                    "lang": locale,
+                })
+            if len(products) < LIMIT:
+                break
+            page += 1
+            time.sleep(SLEEP_SEC)
     return rows
 
 
 def extract_xiaoma_products_from_newin():
-    # XIAOMA appears to render product cards in HTML with title + hardware on /newin.
-    html = fetch_text(f"{XIAOMA_BASE}/newin")
+    # XIAOMA newin pages are localized: /newin (en), /ja/newin, /zh-CN/newin
     rows = []
     card_re = re.compile(
-        r'<a href="(/product/[0-9]+)"[^>]*>.*?<h3[^>]*>(.*?)</h3>.*?<p[^>]*>(.*?)</p>',
+        r'<a href="((?:/(?:ja|zh-CN))?/product/[0-9]+)"[^>]*>.*?<h3[^>]*>(.*?)</h3>.*?<p[^>]*>(.*?)</p>',
         re.S,
     )
-    for m in card_re.finditer(html):
-        href, title, p1 = m.group(1), m.group(2), m.group(3)
-        title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", title)).strip()
-        p1 = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", p1)).strip()
-        if not title:
-            continue
-        rows.append({
-            "title": f"{title} {p1}".strip(),
-            "url": f"{XIAOMA_BASE}{href}",
-            "source": "xiaoma",
-        })
+    locales = [("en", "/newin"), ("ja", "/ja/newin"), ("zh", "/zh-CN/newin")]
+    for locale, path in locales:
+        html = fetch_text(f"{XIAOMA_BASE}{path}")
+        for m in card_re.finditer(html):
+            href, title, p1 = m.group(1), m.group(2), m.group(3)
+            title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", title)).strip()
+            p1 = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", p1)).strip()
+            if not title:
+                continue
+            rows.append({
+                "title": f"{title} {p1}".strip(),
+                "url": f"{XIAOMA_BASE}{href}",
+                "source": "xiaoma",
+                "lang": locale,
+            })
     return rows
 
 
@@ -227,7 +233,7 @@ def canonical_hardware(hw: str) -> str:
     return re.sub(r"\s+", "", h)
 
 
-def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, source):
+def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, source, lang=""):
     entry = by_color[key]
     entry["ja"] = entry["ja"] or color_ja
 
@@ -260,6 +266,7 @@ def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, 
         "title": title,
         "url": url,
         "source": source,
+        "lang": lang,
     }
     if len(entry["examples"]) < 18:
         entry["examples"].append(example)
@@ -295,7 +302,7 @@ def main():
             color_ja = manual["ja"]
             key = normalize_key(color_ja)
 
-        upsert_entry(by_color, key, color_ja, aliases, model, hardware, row["title"], row["url"], row["source"])
+        upsert_entry(by_color, key, color_ja, aliases, model, hardware, row["title"], row["url"], row["source"], row.get("lang", ""))
 
     # ensure manual alias dictionary can create standalone entries (even if not seen in products yet)
     for k, manual in aliases.items():
