@@ -400,13 +400,16 @@
     "official": true
   },
   "ルージュピマン": {
-    "ja": "ルージュピマン",
+    "ja": "ルージュピーマン",
     "en": "Rouge Piment",
     "fr": "Rouge Piment",
     "zh": "辣椒红",
     "aliases": [
+      "ルージュピーマン",
+      "ルージュピマン",
       "rouge piment",
-      "ルージュピマン"
+      "辣椒红",
+      "阳光红"
     ],
     "official": true
   },
@@ -566,6 +569,20 @@
     "aliases": [
       "lime",
       "ライム"
+    ],
+    "official": true
+  },
+  "ルージュピーマン": {
+    "ja": "ルージュピーマン",
+    "en": "Rouge Piment",
+    "fr": "Rouge Piment",
+    "zh": "辣椒红",
+    "aliases": [
+      "ルージュピーマン",
+      "ルージュピマン",
+      "rouge piment",
+      "辣椒红",
+      "阳光红"
     ],
     "official": true
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1773899299,
+  "generatedAt": 1773899384,
   "source": [
     "https://ginzacelia.com",
     "https://ginzaxiaoma.com"
@@ -8,7 +8,7 @@
     "celia_products": 553,
     "xiaoma_products": 16
   },
-  "count": 154,
+  "count": 153,
   "items": [
     {
       "ja": "Au",
@@ -2798,23 +2798,16 @@
       "examples": []
     },
     {
-      "ja": "ルージュピマン",
+      "ja": "ルージュピーマン",
       "en": "Rouge Piment",
       "fr": "Rouge Piment",
       "zh": "辣椒红",
       "aliases": [
+        "ルージュピーマン",
+        "ルージュピマン",
         "rouge piment",
-        "ルージュピマン"
-      ],
-      "examples": []
-    },
-    {
-      "ja": "ルージュピーマン",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "ルージュピーマン"
+        "辣椒红",
+        "阳光红"
       ],
       "examples": [
         {
