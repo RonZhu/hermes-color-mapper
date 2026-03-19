@@ -186,9 +186,11 @@ def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, 
     entry["ja"] = entry["ja"] or color_ja
 
     manual = aliases.get(color_ja) or aliases.get(key) or {}
-    for k in ["en", "fr", "zh", "ja"]:
-        if manual.get(k):
-            entry[k] = manual[k]
+    # Strict mode: never auto-fill multilingual names unless explicitly marked official.
+    if manual.get("official") is True:
+        for k in ["en", "fr", "zh", "ja"]:
+            if manual.get(k):
+                entry[k] = manual[k]
     if manual.get("aliases"):
         entry["aliases"] = list(dict.fromkeys(entry["aliases"] + manual["aliases"]))
 
@@ -231,9 +233,9 @@ def main():
         if key not in by_color:
             by_color[key] = {
                 "ja": manual.get("ja") or k,
-                "en": manual.get("en", ""),
-                "fr": manual.get("fr", ""),
-                "zh": manual.get("zh", ""),
+                "en": manual.get("en", "") if manual.get("official") is True else "",
+                "fr": manual.get("fr", "") if manual.get("official") is True else "",
+                "zh": manual.get("zh", "") if manual.get("official") is True else "",
                 "aliases": manual.get("aliases", []),
                 "examples": [],
             }
