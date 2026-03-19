@@ -1,0 +1,17 @@
+{
+  "ルージュアッシュ": {"en": "Rouge H", "fr": "Rouge H", "zh": "酒红", "aliases": ["rouge h", "rougeh"]},
+  "ボルドー": {"en": "Bordeaux", "fr": "Bordeaux", "zh": "波尔多红", "aliases": ["bordeaux"]},
+  "ゴールド": {"en": "Gold", "fr": "Gold", "zh": "金棕", "aliases": ["gold"]},
+  "エベンヌ": {"en": "Ebene", "fr": "Ébène", "zh": "乌木棕", "aliases": ["ebene", "ébène"]},
+  "ローズアザレ": {"en": "Rose Azalee", "fr": "Rose Azalée", "zh": "杜鹃粉", "aliases": ["rose azalee", "rose azalée"]},
+  "ブラック": {"en": "Black", "fr": "Noir", "zh": "黑色", "aliases": ["black", "noir"]},
+  "ノワール": {"en": "Black", "fr": "Noir", "zh": "黑色", "aliases": ["black", "noir"]},
+  "エトゥープ": {"en": "Etoupe", "fr": "Étoupe", "zh": "大象灰", "aliases": ["etoupe", "étoupe"]},
+  "クレ": {"en": "Craie", "fr": "Craie", "zh": "奶油白", "aliases": ["craie", "clay"]},
+  "ブルーニュイ": {"en": "Blue Nuit", "fr": "Bleu Nuit", "zh": "午夜蓝", "aliases": ["blue nuit", "bleu nuit"]},
+  "ブルーフランス": {"en": "Blue France", "fr": "Bleu France", "zh": "法国蓝", "aliases": ["blue france", "bleu france"]},
+  "ブルーインディゴ": {"en": "Blue Indigo", "fr": "Bleu Indigo", "zh": "靛蓝", "aliases": ["blue indigo", "bleu indigo"]},
+  "オレンジ": {"en": "Orange", "fr": "Orange", "zh": "橙色", "aliases": ["orange"]},
+  "ヴェールフィズ": {"en": "Vert Fizz", "fr": "Vert Fizz", "zh": "薄荷绿", "aliases": ["vert fizz"]},
+  "ナタ": {"en": "Nata", "fr": "Nata", "zh": "奶白色", "aliases": ["nata"]}
+}
