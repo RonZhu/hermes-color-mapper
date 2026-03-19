@@ -147,6 +147,22 @@ def find_manual_alias(aliases: dict, color: str, key: str):
     return {}
 
 
+def infer_color_from_official_aliases(title: str, aliases: dict) -> str:
+    tkey = normalize_key(title)
+    best = (0, "")
+    for _, v in aliases.items():
+        if v.get("official") is not True:
+            continue
+        ja = v.get("ja", "")
+        for a in ([ja] + v.get("aliases", [])):
+            ak = normalize_key(a)
+            if len(ak) < 3:
+                continue
+            if ak in tkey and len(ak) > best[0]:
+                best = (len(ak), ja)
+    return best[1]
+
+
 def extract_celia_products():
     rows = []
     page = 1
@@ -265,7 +281,11 @@ def main():
         if not model:
             continue
         hardware = detect_hardware(tokens, row["title"])
-        color_ja = infer_color(tokens, model, hardware)
+        color_ja = ""
+        if row["source"] == "xiaoma":
+            color_ja = infer_color_from_official_aliases(row["title"], aliases)
+        if not color_ja:
+            color_ja = infer_color(tokens, model, hardware)
         if not color_ja:
             continue
         key = normalize_key(color_ja)

@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1773899384,
+  "generatedAt": 1773899544,
   "source": [
     "https://ginzacelia.com",
     "https://ginzaxiaoma.com"
@@ -8,141 +8,8 @@
     "celia_products": 553,
     "xiaoma_products": 16
   },
-  "count": 153,
+  "count": 146,
   "items": [
-    {
-      "ja": "Au",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Au"
-      ],
-      "examples": [
-        {
-          "bag": "Kelly",
-          "hardware": "Palladium hardware",
-          "title": "Kelly 32 Au Galop Craie (10) Rouge H (55) Fauve (34) Togo Sombrero Barenia Palladium hardware",
-          "url": "https://ginzaxiaoma.com/product/1007828",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "II",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "II"
-      ],
-      "examples": [
-        {
-          "bag": "Mini Kelly",
-          "hardware": "Gold hardware",
-          "title": "Mini Kelly II Noir (89) Box-calf Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007882",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Mauve",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Mauve"
-      ],
-      "examples": [
-        {
-          "bag": "Picotin Lock",
-          "hardware": "Palladium hardware",
-          "title": "Picotin Lock PM Mauve Sylvestre (X9) Clemence Palladium hardware",
-          "url": "https://ginzaxiaoma.com/product/1007881",
-          "source": "xiaoma"
-        },
-        {
-          "bag": "Kelly Pochette",
-          "hardware": "Rose Gold hardware",
-          "title": "Kelly Pochette Mauve Sylvestre (X9) Swift Rose Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007849",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "On",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "On"
-      ],
-      "examples": [
-        {
-          "bag": "Constance",
-          "hardware": "Enamel hardware",
-          "title": "Constance Mini On A Summer Night Noir (89) Sombrero Enamel hardware",
-          "url": "https://ginzaxiaoma.com/product/1007838",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Sellier",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Sellier"
-      ],
-      "examples": [
-        {
-          "bag": "Birkin",
-          "hardware": "Gold hardware",
-          "title": "Birkin 25 Sellier Gold (37) Epsom Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007853",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "Shark",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "Shark"
-      ],
-      "examples": [
-        {
-          "bag": "Bolide",
-          "hardware": "Palladium hardware",
-          "title": "Bolide Shark charm Noir (89) Swift Palladium hardware",
-          "url": "https://ginzaxiaoma.com/product/1003203",
-          "source": "xiaoma"
-        }
-      ]
-    },
-    {
-      "ja": "To",
-      "en": "",
-      "fr": "",
-      "zh": "",
-      "aliases": [
-        "To"
-      ],
-      "examples": [
-        {
-          "bag": "Kelly",
-          "hardware": "Gold hardware",
-          "title": "Kelly To Go Wallet Gold (37) Epsom Gold hardware",
-          "url": "https://ginzaxiaoma.com/product/1007868",
-          "source": "xiaoma"
-        }
-      ]
-    },
     {
       "ja": "べトン",
       "en": "",
@@ -1014,7 +881,7 @@
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ゴールド  エプソン  ゴールド金具  W 刻印",
           "url": "https://ginzacelia.com/products/minikelly2-gold-epsom-gold-w",
-          "source": "celia"
+          "source": "celia+xiaoma"
         },
         {
           "bag": "リンディ",
@@ -1092,6 +959,13 @@
           "title": "HERMES  エルメス  コンスタンス  エラン  ゴールド  エプソン  シルバー金具  K 刻印",
           "url": "https://ginzacelia.com/products/hermes-k-27",
           "source": "celia"
+        },
+        {
+          "bag": "Birkin",
+          "hardware": "Gold hardware",
+          "title": "Birkin 25 Sellier Gold (37) Epsom Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007853",
+          "source": "xiaoma"
         }
       ]
     },
@@ -1859,7 +1733,7 @@
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ブラック  エプソン  ゴールド金具  G 刻印",
           "url": "https://ginzacelia.com/products/minikelly2-black-epsom-gold-g",
-          "source": "celia+xiaoma"
+          "source": "celia"
         },
         {
           "bag": "エールバッグ ジップ ミニ",
@@ -2564,6 +2438,20 @@
           "title": "HERMES  エルメス  ケリー 25  モーヴシルベストル  スイフト  シルバー金具  Z 刻印",
           "url": "https://ginzacelia.com/products/ケリー-25-モーヴシルベストル-スイフト-シルバー金具-z-刻印",
           "source": "celia"
+        },
+        {
+          "bag": "Picotin Lock",
+          "hardware": "Palladium hardware",
+          "title": "Picotin Lock PM Mauve Sylvestre (X9) Clemence Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007881",
+          "source": "xiaoma"
+        },
+        {
+          "bag": "Kelly Pochette",
+          "hardware": "Rose Gold hardware",
+          "title": "Kelly Pochette Mauve Sylvestre (X9) Swift Rose Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007849",
+          "source": "xiaoma"
         }
       ]
     },
@@ -2716,6 +2604,13 @@
           "title": "HERMES  エルメス  エブリン TPM  ルージュアッシュ  トリヨンクレマンス  ゴールド金具  K 刻印",
           "url": "https://ginzacelia.com/products/hermes-tpm-k-6",
           "source": "celia"
+        },
+        {
+          "bag": "Kelly",
+          "hardware": "Palladium hardware",
+          "title": "Kelly 32 Au Galop Craie (10) Rouge H (55) Fauve (34) Togo Sombrero Barenia Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007828",
+          "source": "xiaoma"
         }
       ]
     },
