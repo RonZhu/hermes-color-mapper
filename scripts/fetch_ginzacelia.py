@@ -181,6 +181,24 @@ def extract_xiaoma_products_from_newin():
     return rows
 
 
+def canonical_bag(bag: str) -> str:
+    b = (bag or "").lower()
+    if "ケリー" in bag or "kelly" in b:
+        return "kelly"
+    return re.sub(r"\s+", "", b)
+
+
+def canonical_hardware(hw: str) -> str:
+    h = (hw or "").lower()
+    if "ゴールド金具" in hw or "gold hardware" in h:
+        return "gold"
+    if "シルバー金具" in hw or "silver hardware" in h:
+        return "silver"
+    if "パラジウム" in hw or "palladium" in h:
+        return "palladium"
+    return re.sub(r"\s+", "", h)
+
+
 def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, source):
     entry = by_color[key]
     entry["ja"] = entry["ja"] or color_ja
@@ -194,9 +212,23 @@ def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, 
     if manual.get("aliases"):
         entry["aliases"] = list(dict.fromkeys(entry["aliases"] + manual["aliases"]))
 
+    bag = model or ""
+    hw = hardware[0] if hardware else ""
+
+    # Merge cross-source duplicate hits by product signature.
+    # User rule: same hit when bag+hardware match (e.g. ケリー + ゴールド金具).
+    cbag = canonical_bag(bag)
+    chw = canonical_hardware(hw)
+    for ex in entry["examples"]:
+        if canonical_bag(ex.get("bag", "")) == cbag and canonical_hardware(ex.get("hardware", "")) == chw and cbag and chw:
+            srcs = set(str(ex.get("source", "")).split("+"))
+            srcs.add(source)
+            ex["source"] = "+".join(sorted(s for s in srcs if s))
+            return
+
     example = {
-        "bag": model or "",
-        "hardware": hardware[0] if hardware else "",
+        "bag": bag,
+        "hardware": hw,
         "title": title,
         "url": url,
         "source": source,
