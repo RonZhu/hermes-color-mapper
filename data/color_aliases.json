@@ -14,5 +14,7 @@
   "オレンジ": {"en": "Orange", "fr": "Orange", "zh": "橙色", "aliases": ["orange"]},
   "ヴェールフィズ": {"en": "Vert Fizz", "fr": "Vert Fizz", "zh": "薄荷绿", "aliases": ["vert fizz"]},
   "ナタ": {"en": "Nata", "fr": "Nata", "zh": "奶白色", "aliases": ["nata", "奶昔白", "milkshake white"]},
-  "モーヴシルベストル": {"en": "Mauve Sylvestre", "fr": "Mauve Sylvestre", "zh": "锦葵紫", "aliases": ["mauve sylvestre", "锦葵紫", "mallow purple"]}
+  "モーヴシルベストル": {"en": "Mauve Sylvestre", "fr": "Mauve Sylvestre", "zh": "锦葵紫", "aliases": ["mauve sylvestre", "锦葵紫", "mallow purple"]},
+  "ブルージーン": {"en": "Blue Jean", "fr": "Bleu Jean", "zh": "牛仔蓝", "aliases": ["blue jean", "bleu jean", "牛仔蓝"]},
+  "グリペール": {"en": "Pearl Grey", "fr": "Gris Perle", "zh": "珍珠灰", "aliases": ["gris perle", "pearl grey", "珍珠灰"]}
 }

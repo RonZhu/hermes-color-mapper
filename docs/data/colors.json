@@ -1,8 +1,259 @@
 {
-  "generatedAt": 1773897014,
-  "source": "https://ginzacelia.com",
-  "count": 120,
+  "generatedAt": 1773898298,
+  "source": [
+    "https://ginzacelia.com",
+    "https://ginzaxiaoma.com"
+  ],
+  "counts": {
+    "celia_products": 553,
+    "xiaoma_products": 16
+  },
+  "count": 137,
   "items": [
+    {
+      "ja": "Au",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Au"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly 32 Au Galop Craie (10) Rouge H (55) Fauve (34) Togo Sombrero Barenia Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007828",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Beton",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Beton"
+      ],
+      "examples": [
+        {
+          "bag": "Herbag",
+          "hardware": "",
+          "title": "Herbag PM Beton (8L) Fauve (34) Vache Hunter Toile Chevrons canvas Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007832",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Etain",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Etain"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly 25 Etain (8F) Togo Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007834",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Etoupe",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Etoupe"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly 28 Etoupe (18) Clemence Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007856",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "II",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "II"
+      ],
+      "examples": [
+        {
+          "bag": "Mini Kelly",
+          "hardware": "",
+          "title": "Mini Kelly II Noir (89) Box-calf Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007882",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Mauve",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Mauve"
+      ],
+      "examples": [
+        {
+          "bag": "Picotin Lock",
+          "hardware": "",
+          "title": "Picotin Lock PM Mauve Sylvestre (X9) Clemence Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007881",
+          "source": "xiaoma"
+        },
+        {
+          "bag": "Kelly Pochette",
+          "hardware": "",
+          "title": "Kelly Pochette Mauve Sylvestre (X9) Swift Rose Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007849",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Noir",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Noir"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly 25 Noir (89) Togo Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1007892",
+          "source": "xiaoma"
+        },
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly 32 Noir (89) Matte Alligator Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007829",
+          "source": "xiaoma"
+        },
+        {
+          "bag": "Kelly Pochette",
+          "hardware": "",
+          "title": "Kelly Pochette Noir (89) Swift Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007861",
+          "source": "xiaoma"
+        },
+        {
+          "bag": "Constance",
+          "hardware": "",
+          "title": "Constance 24 Noir (89) Epsom Enamel hardware",
+          "url": "https://ginzaxiaoma.com/product/1007842",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "On",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "On"
+      ],
+      "examples": [
+        {
+          "bag": "Constance",
+          "hardware": "",
+          "title": "Constance Mini On A Summer Night Noir (89) Sombrero Enamel hardware",
+          "url": "https://ginzaxiaoma.com/product/1007838",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Sellier",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Sellier"
+      ],
+      "examples": [
+        {
+          "bag": "Birkin",
+          "hardware": "",
+          "title": "Birkin 25 Sellier Gold (37) Epsom Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007853",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "Shark",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "Shark"
+      ],
+      "examples": [
+        {
+          "bag": "Bolide",
+          "hardware": "",
+          "title": "Bolide Shark charm Noir (89) Swift Palladium hardware",
+          "url": "https://ginzaxiaoma.com/product/1003203",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "To",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "To"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly To Go Wallet Gold (37) Epsom Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007868",
+          "source": "xiaoma"
+        }
+      ]
+    },
+    {
+      "ja": "White",
+      "en": "",
+      "fr": "",
+      "zh": "",
+      "aliases": [
+        "White"
+      ],
+      "examples": [
+        {
+          "bag": "Kelly",
+          "hardware": "",
+          "title": "Kelly 28 White (01) Evercolor Gold hardware",
+          "url": "https://ginzaxiaoma.com/product/1007888",
+          "source": "xiaoma"
+        }
+      ]
+    },
     {
       "ja": "べトン",
       "en": "",
@@ -16,28 +267,31 @@
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック 18  べトン  トリヨンクレマンス  シルバー金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-beton-clemence-silver-k"
+          "url": "https://ginzacelia.com/products/picotinlock18-beton-clemence-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス バーキン 25  べトン  ポロサスマット  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-ベトン-ポロサスマット-シルバー金具-w-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-ベトン-ポロサスマット-シルバー金具-w-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ポシェットケリー SPO  べトン  ゴールド  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-spo-k-2"
+          "url": "https://ginzacelia.com/products/hermes-spo-k-2",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリーダンス  べトン  エバーカラー  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-33"
+          "url": "https://ginzacelia.com/products/hermes-k-33",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "アルジャン",
@@ -52,10 +306,10 @@
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  コンスタンス ミロワール 19  アルジャン  シェーブルミゾル  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-19-k-4"
+          "url": "https://ginzacelia.com/products/hermes-19-k-4",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "アルドワーズ",
@@ -70,10 +324,10 @@
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  コンスタンス 19  リザード  アルドワーズ  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/constance19-ardoise-lizard-silver-b"
+          "url": "https://ginzacelia.com/products/constance19-ardoise-lizard-silver-b",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "エクリュ",
@@ -88,16 +342,17 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25 カーゴ  エクリュ  ブラック  トワル  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-cargo-ecru-black-toile-swift-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-cargo-ecru-black-toile-swift-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25 カーゴ  エクリュ  ナタ  スイフト  トワルゴエラン  シルバー金具  Z 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-cargo-ecru-nata-toilegoeland-swift-silver-z"
+          "url": "https://ginzacelia.com/products/birkin25-cargo-ecru-nata-toilegoeland-swift-silver-z",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "エクリュ バイブルン",
@@ -112,10 +367,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  エクリュ バイブルン  トワルアッシュ スイフト  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン25-エクリュ-バイブルン-トワルアッシュ-スイフト-ゴールド金具-k刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン25-エクリュ-バイブルン-トワルアッシュ-スイフト-ゴールド金具-k刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "エクリュ ブラック",
@@ -130,16 +385,17 @@
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス. ガーデンパーティ ネオ  エクリュ ブラック  トワルアッシュ ネゴンダ  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/ガーデンパーティ-ネオ-エクリュ-ブラック-トワルアッシュ-ネゴンダ-シルバー金具-w-刻印"
+          "url": "https://ginzacelia.com/products/ガーデンパーティ-ネオ-エクリュ-ブラック-トワルアッシュ-ネゴンダ-シルバー金具-w-刻印",
+          "source": "celia"
         },
         {
           "bag": "エールバッグ ジップ ミニ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  エールバッグ  ジップ ミニ  エクリュ ブラック  トワルアッシュ  ヴァッシュハンター  ゴールド金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/hermes-38"
+          "url": "https://ginzacelia.com/products/hermes-38",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "エトゥープ",
@@ -156,76 +412,129 @@
           "bag": "エブリン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  エブリン PM  エトゥープ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/evelyne-pm-etoupe-clemence-gold-k"
+          "url": "https://ginzacelia.com/products/evelyne-pm-etoupe-clemence-gold-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ 26  エトゥープ  トリヨンクレマンス  ゴールド金具  B 刻印",
-          "url": "https://ginzacelia.com/products/lindy26-etoupe-clemence-gold-b"
+          "url": "https://ginzacelia.com/products/lindy26-etoupe-clemence-gold-b",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  エトゥープ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-etoupe-togo-gold-k"
+          "url": "https://ginzacelia.com/products/kelly25-etoupe-togo-gold-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ 26  エトゥープ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy26-etoupe-clemence-gold-k"
+          "url": "https://ginzacelia.com/products/lindy26-etoupe-clemence-gold-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ  ミニ  エトゥープ  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy-mini-etoupe-clemence-silver-k"
+          "url": "https://ginzacelia.com/products/lindy-mini-etoupe-clemence-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  エトゥープ  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-エトゥープ-トゴ-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-エトゥープ-トゴ-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック 18  エトゥープ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-etoupe-clemence-gold-k"
+          "url": "https://ginzacelia.com/products/picotinlock18-etoupe-clemence-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  エトゥープ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-エトゥープ-トゴ-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-エトゥープ-トゴ-ゴールド金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  エトゥープ  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-etoupe-epsom-gold-k"
+          "url": "https://ginzacelia.com/products/kelly25-etoupe-epsom-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 30  エトゥープ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin30-etoupe-togo-gold-k"
+          "url": "https://ginzacelia.com/products/birkin30-etoupe-togo-gold-k",
+          "source": "celia"
         },
         {
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  ガーデンパーティ ネオ  エトゥープ  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ガーデンパーティ-ネオ-エトゥープ-トゴ-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ガーデンパーティ-ネオ-エトゥープ-トゴ-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "エブリン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  エブリン TPM   エトゥープ  トリヨンクレマンス  シルバー金具  Ｋ刻印",
-          "url": "https://ginzacelia.com/products/エブリン-tpm-エトゥープ-トリヨンクレマンス-シルバー金具-ｋ刻印"
+          "url": "https://ginzacelia.com/products/エブリン-tpm-エトゥープ-トリヨンクレマンス-シルバー金具-ｋ刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "コンスタンス",
+          "hardware": "マットシャンパンゴールド金具",
+          "title": "HERMES  エルメス  コンスタンス ミロワール 19  エトゥープ  エプソン  マットシャンパンゴールド金具  K 刻印",
+          "url": "https://ginzacelia.com/products/コンスタンス-19-ミロワール-エトゥープエプソン-マットシャンパンゴールド金具-k-刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  バーキン 25  エトゥープ  トゴ  ゴールド金具  K 刻印",
+          "url": "https://ginzacelia.com/products/birkin25-etoupe-togo-gold-k",
+          "source": "celia"
+        },
+        {
+          "bag": "コンスタンス",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  コンスタンス ミロワール 19  エトゥープ  エプソン  シルバー金具  W 刻印",
+          "url": "https://ginzacelia.com/products/コンスタンス-ミロワール-19-エトゥープ-エプソン-シルバー金具-w-刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "ピコタンロック",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  ピコタンロック22  エトゥープ  トリヨンクレマンス  ゴールド金具  K 刻印",
+          "url": "https://ginzacelia.com/products/picotinlock22-etoupe-clemence-gold-k",
+          "source": "celia"
+        },
+        {
+          "bag": "ケリー",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  ケリー 25  エトゥープ  トゴ  シルバー金具  K 刻印",
+          "url": "https://ginzacelia.com/products/hermes-25-k-35",
+          "source": "celia"
+        },
+        {
+          "bag": "ガーデンパーティ",
+          "hardware": "シルバー金具",
+          "title": "HERMES エルメス  ガーデンパーティ PM  エトゥープ  トリヨンクレマンス  シルバー金具  A刻印",
+          "url": "https://ginzacelia.com/products/hermes-pm-a",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "エベンヌ",
@@ -242,22 +551,24 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  エベンヌ  スイフト  トワル  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-ebene-swift-toile-gold-k"
+          "url": "https://ginzacelia.com/products/birkin25-ebene-swift-toile-gold-k",
+          "source": "celia"
         },
         {
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ ネオ  エベンヌ  トワル ネゴンダ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-neo-ebene-toile-negonda-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-neo-ebene-toile-negonda-silver-k",
+          "source": "celia"
         },
         {
           "bag": "エールバッグ ジップ ミニ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  エールバッグ  ジップ ミニ  エベンヌ  ヴァッシュハンター トワル  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-37"
+          "url": "https://ginzacelia.com/products/hermes-k-37",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "エリエ",
@@ -272,10 +583,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  ケリー 25  エリエ  ローズコンフェッティ  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-1"
+          "url": "https://ginzacelia.com/products/hermes-25-k-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "オレンジ",
@@ -291,10 +602,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  オレンジ  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-orange-togo-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-orange-togo-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "オレンジ サンギーヌ ブルーラン ブルーイドラ エタン ゴールド",
@@ -309,10 +620,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  オレンジ サンギーヌ ブルーラン ブルーイドラ エタン ゴールド  トリヨンクレマンス  シルバー金具  □P 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-p-2"
+          "url": "https://ginzacelia.com/products/hermes-35-p-2",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "オレンジポピー",
@@ -327,10 +638,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリーダンス  オレンジポピー  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kellydanse-orangepoppy-swift-silver-k"
+          "url": "https://ginzacelia.com/products/kellydanse-orangepoppy-swift-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "オンブレ",
@@ -345,10 +656,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES エルメス  バーキン 25  オンブレ  リザード  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-オンブレ-リザード-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-オンブレ-リザード-ゴールド金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "カザック",
@@ -363,10 +674,10 @@
           "bag": "ボリード",
           "hardware": "",
           "title": "HERMES  エルメス  ボリードポーチ  カザック   ミニミニ  オレンジ",
-          "url": "https://ginzacelia.com/products/hermes-2"
+          "url": "https://ginzacelia.com/products/hermes-2",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "カシス",
@@ -381,10 +692,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  カシス  アリゲーターマット  シルバー金具  □M 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-m"
+          "url": "https://ginzacelia.com/products/hermes-35-m",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "カーゴ",
@@ -399,22 +710,24 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  カーゴ  ナタ  ゴールド  トワルゴエラン スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-cargo-nata-gold-toilegoeland-swift-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-cargo-nata-gold-toilegoeland-swift-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  カーゴ  エコルセ  トワルゴエラン  スイフト  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-w-15"
+          "url": "https://ginzacelia.com/products/hermes-25-w-15",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  カーゴ  ブラック  トワルゴエラン スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-20"
+          "url": "https://ginzacelia.com/products/hermes-25-k-20",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "キャバン",
@@ -429,10 +742,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリーデペッシュ25  キャバン  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-17"
+          "url": "https://ginzacelia.com/products/hermes-25-17",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "クラブ",
@@ -447,10 +760,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  クラブ  ホワイト サンギーヌ パールグレー  トリヨンクレマンス リザード  シルバー金具  □O 金具",
-          "url": "https://ginzacelia.com/products/hermes-35-o"
+          "url": "https://ginzacelia.com/products/hermes-35-o",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "クルーテ",
@@ -465,10 +778,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  クルーテ  ブルーアビス  ボックスカーフ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-ミニケリー-ドゥ-クルーテ-ブルーアビス-ボックスカーフ-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-ミニケリー-ドゥ-クルーテ-ブルーアビス-ボックスカーフ-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "クレ",
@@ -485,76 +798,122 @@
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ  ネオ  クレ  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-neo-craie-togo-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-neo-craie-togo-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  クレ  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-craie-clemence-silver-w"
+          "url": "https://ginzacelia.com/products/picotinlock18-craie-clemence-silver-w",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  クレ  トゴ  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-クレ-トゴ-シルバー金具-w-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-クレ-トゴ-シルバー金具-w-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES エルメス  ケリー 25 セリエ  クレ  エプソン  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ケリー-25-セリエ-クレ-エプソン-シャンパンゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ケリー-25-セリエ-クレ-エプソン-シャンパンゴールド金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
-          "hardware": "ゴールド金具",
+          "hardware": "ピンクゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  クレ  トゴ  ピンクゴールド金具  Y 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-クレ-トゴ-ピンクゴールド金具-y-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-クレ-トゴ-ピンクゴールド金具-y-刻印",
+          "source": "celia"
         },
         {
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ ネオ  クレ  トゴ シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ガーデンパーティ-ネオ-クレ-ネゴンダ-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ガーデンパーティ-ネオ-クレ-ネゴンダ-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  コンスタンス ミロワール 19  クレ  エプソン  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-19-w-3"
+          "url": "https://ginzacelia.com/products/hermes-19-w-3",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  クレ  トゴ  ゴールド金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-33"
+          "url": "https://ginzacelia.com/products/hermes-25-33",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  クレ  エプソン  ゴールド金具　K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-craie-epsom-gold-k"
+          "url": "https://ginzacelia.com/products/minikelly2-craie-epsom-gold-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES  エルメス  ポシェットケリー  クレ  スイフト  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-26"
+          "url": "https://ginzacelia.com/products/hermes-k-26",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  クレ  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-23"
+          "url": "https://ginzacelia.com/products/hermes-k-23",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 30  クレ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-30-k-2"
+          "url": "https://ginzacelia.com/products/hermes-30-k-2",
+          "source": "celia"
+        },
+        {
+          "bag": "ミニケリー ドゥ",
+          "hardware": "シャンパンゴールド金具",
+          "title": "HERMES  エルメス  ミニケリー ドゥ  SPO  クレ  ナチュラルサブレ  トゴ  シャンパンゴールド金具 W 刻印",
+          "url": "https://ginzacelia.com/products/hermes-spo-w",
+          "source": "celia"
+        },
+        {
+          "bag": "ピコタンロック",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  ピコタンロック18  クレ  トリヨンクレマンス  シルバー金具  K 刻印",
+          "url": "https://ginzacelia.com/products/hermes-18-k-4",
+          "source": "celia"
+        },
+        {
+          "bag": "ピコタンロック",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  ピコタンロック18  クレ  トリヨンクレマンス  ゴールド金具  K 刻印",
+          "url": "https://ginzacelia.com/products/hermes-18-k-5",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  バーキン 25  クレ  トゴ　ゴールド金具　W 刻印",
+          "url": "https://ginzacelia.com/products/hermes-25-w-14",
+          "source": "celia"
+        },
+        {
+          "bag": "リンディ",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  リンディ  ミニ  クレ  トリヨンクレマンス  ゴールド金具  W 刻印",
+          "url": "https://ginzacelia.com/products/hermes-w-6",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "クレ ゴールド",
@@ -569,10 +928,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 30 SPO  クレ ゴールド  トゴ  マットゴールド金具  Y 刻印",
-          "url": "https://ginzacelia.com/products/hermes-30-spo-y"
+          "url": "https://ginzacelia.com/products/hermes-30-spo-y",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "クレ/ ナチュラルサブレ",
@@ -587,10 +946,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン25  SPO  クレ/ ナチュラルサブレ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-spo-k"
+          "url": "https://ginzacelia.com/products/hermes-25-spo-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "グラファイト",
@@ -605,16 +964,17 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  グラファイト  アリゲーターマット  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-graphite-alligatormatte-gold-k"
+          "url": "https://ginzacelia.com/products/birkin25-graphite-alligatormatte-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  グラファイト  アリゲーターマット  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-16"
+          "url": "https://ginzacelia.com/products/hermes-25-k-16",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "グリパンタン",
@@ -629,35 +989,41 @@
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ ミニ  グリパンタン  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy-mini-grisprintemps-clemence-silver-k"
+          "url": "https://ginzacelia.com/products/lindy-mini-grisprintemps-clemence-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ ネオ  グリパンタン  ネゴンダ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-neo-grisprintemps-negonda-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-neo-grisprintemps-negonda-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック 18  グリパンタン  トリヨンクレマンス  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-k-2"
+          "url": "https://ginzacelia.com/products/hermes-18-k-2",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン25  グリパンタン  トゴ  シルバー金具  K刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-5"
+          "url": "https://ginzacelia.com/products/hermes-25-k-5",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "グリペール",
-      "en": "",
-      "fr": "",
-      "zh": "",
+      "en": "Pearl Grey",
+      "fr": "Gris Perle",
+      "zh": "珍珠灰",
       "aliases": [
+        "gris perle",
+        "pearl grey",
+        "珍珠灰",
         "グリペール"
       ],
       "examples": [
@@ -665,16 +1031,17 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  グリペール  トゴ  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-u-1"
+          "url": "https://ginzacelia.com/products/hermes-25-u-1",
+          "source": "celia"
         },
         {
           "bag": "エブリン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  エブリン TPM  グリペール  トリヨンクレマンス  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-tpm-w-1"
+          "url": "https://ginzacelia.com/products/hermes-tpm-w-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "グリミスティ",
@@ -689,10 +1056,10 @@
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  グリミスティ  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-k-8"
+          "url": "https://ginzacelia.com/products/hermes-18-k-8",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "グリミスティ エクリュ",
@@ -707,10 +1074,10 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  グリミスティ エクリュ  スイフト トワルアッシュ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-grismysty-ecru-swift-toile-paillete-gold-k"
+          "url": "https://ginzacelia.com/products/kelly25-grismysty-ecru-swift-toile-paillete-gold-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "グリミスティ ブラック ヴェールフィズ アルザン",
@@ -725,10 +1092,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール ピクト  グリミスティ ブラック ヴェールフィズ アルザン  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ケリードール-ピクト-グリミスティ-ブラック-ヴェールフィズ-アルザン-エプソン-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ケリードール-ピクト-グリミスティ-ブラック-ヴェールフィズ-アルザン-エプソン-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ゴーチーム",
@@ -743,10 +1110,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ゴーチーム  エベンヌ ショコラ ニューホワイト  スイフト フェルト  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-w-10"
+          "url": "https://ginzacelia.com/products/hermes-25-w-10",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ゴールド",
@@ -762,76 +1129,129 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  ゴールド  トゴ  ゴールド金具  U 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-gold-togo-gold-u"
+          "url": "https://ginzacelia.com/products/birkin25-gold-togo-gold-u",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ゴールド  エプソン  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-gold-epsom-gold-w"
+          "url": "https://ginzacelia.com/products/minikelly2-gold-epsom-gold-w",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ  ミニ  ゴールド  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy-mini-gold-clemence-gold-k"
+          "url": "https://ginzacelia.com/products/lindy-mini-gold-clemence-gold-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ 26  ゴールド  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/lindy26-gold-clemence-silver-w"
+          "url": "https://ginzacelia.com/products/lindy26-gold-clemence-silver-w",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ゴールド  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-gold-togo-silver-k1"
+          "url": "https://ginzacelia.com/products/birkin25-gold-togo-silver-k1",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ポシェットケリー  ゴールド  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/pochettekelly-gold-swift-silver-k"
+          "url": "https://ginzacelia.com/products/pochettekelly-gold-swift-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ガーデンパーティ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ  TPM  ゴールド  ネゴンダ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-tpm-gold-negonda-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-tpm-gold-negonda-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25 セリエ  ゴールド  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-sellier-gold-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/kelly25-sellier-gold-epsom-silver-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ 26  ゴールド  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-リンディ-26-ゴールド-トリヨンクレマンス-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-リンディ-26-ゴールド-トリヨンクレマンス-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ ミニ  ゴールド  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-ミニ-リンディ-ゴールド-トリヨンクレマンス-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-ミニ-リンディ-ゴールド-トリヨンクレマンス-ゴールド金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール ピクト  ゴールド  ブルーザンジバル  オレンジフィールド  ジョーヌミルトン  エプソン  シルバー金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/kellydollpict-gold-bluezanzibar-orangefield-jaunemilton-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/kellydollpict-gold-bluezanzibar-orangefield-jaunemilton-epsom-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック 18  ゴールド  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ピコタンロック-18-ゴールド-トリヨンクレマンス-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ピコタンロック-18-ゴールド-トリヨンクレマンス-シルバー金具-k-刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "コンスタンス",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  コンスタンス ミロワール 19  ゴールド  エプソン  シルバー金具  W 刻印",
+          "url": "https://ginzacelia.com/products/constance19-miroir-gold-epsom-silver-w",
+          "source": "celia"
+        },
+        {
+          "bag": "エブリン",
+          "hardware": "ゴールド金具",
+          "title": "HERMES エルメス  エブリン  PM  ゴールド   トリヨンクレマンス  ゴールド金具  B 刻印",
+          "url": "https://ginzacelia.com/products/エブリン-pm-ゴールド-トリヨンクレマンス-ゴールド金具-b-刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "シルバー金具",
+          "title": "HERMES エルメス  バーキン25  ゴールド  トゴ  シルバー金具   K 刻印",
+          "url": "https://ginzacelia.com/products/birkin25-gold-togo-silver-k",
+          "source": "celia"
+        },
+        {
+          "bag": "ピコタンロック",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  ピコタンロック 18  ゴールド  トリヨンクレマンス  シルバー金具  K 刻",
+          "url": "https://ginzacelia.com/products/ピコタンロック-18-ゴールド-トリヨンクレマンス-シルバー金具-k-刻",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  バーキン 25  ゴールド  ポロサスマット  ゴールド金具  W 刻印",
+          "url": "https://ginzacelia.com/products/バーキン-25-ゴールド-ポロサスマット-ゴールド金具-w-刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "ケリー",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  ミニ ケリードゥ  ゴールド  エプソン  シルバー金具  K 刻印",
+          "url": "https://ginzacelia.com/products/mini-kelly-do-gold-epsom-palladium-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "シエル",
@@ -846,10 +1266,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  シエル  トゴ  シルバー金具  □M 刻印",
-          "url": "https://ginzacelia.com/products/birkin35-ciel-togo-silver-m"
+          "url": "https://ginzacelia.com/products/birkin35-ciel-togo-silver-m",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ジョーヌシトロン",
@@ -864,10 +1284,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ジョーヌシトロン  エプソン  シルバー金具  Ｋ刻印",
-          "url": "https://ginzacelia.com/products/hermes-21"
+          "url": "https://ginzacelia.com/products/hermes-21",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ジョーヌプッサン",
@@ -882,16 +1302,17 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 30  ジョーヌプッサン  トゴ  シルバー金具  G 刻印",
-          "url": "https://ginzacelia.com/products/birkin30-jaunepoussin-togo-silver-g"
+          "url": "https://ginzacelia.com/products/birkin30-jaunepoussin-togo-silver-g",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  バーキン 25  ジョーヌプッサン  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-jaunepoussin-togo-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-jaunepoussin-togo-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ジョーヌミルトン",
@@ -906,16 +1327,17 @@
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ 26  ジョーヌミルトン  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy26-jaunemilton-clemence-silver-k"
+          "url": "https://ginzacelia.com/products/lindy26-jaunemilton-clemence-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  ジョーヌミルトン  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-w-2"
+          "url": "https://ginzacelia.com/products/hermes-18-w-2",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "セリエ",
@@ -930,76 +1352,101 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  セリエ  ゴールド  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-sellier-gold-epsom-gold-k"
+          "url": "https://ginzacelia.com/products/kelly25-sellier-gold-epsom-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  セリエ  クレ  エプソン  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-sellier-craie-epsom-gold-w"
+          "url": "https://ginzacelia.com/products/birkin25-sellier-craie-epsom-gold-w",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  セリエ  ブルーインディゴ  エプソン  ゴールド金具  U 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-sellier-blueindigo-epsom-gold-u"
+          "url": "https://ginzacelia.com/products/birkin25-sellier-blueindigo-epsom-gold-u",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25  セリエ  オンブレ  リザード  シルバー金具  Ⅾ刻印",
-          "url": "https://ginzacelia.com/products/ケリー-25-セリエ-オンブレ-リザード-シルバー金具-ⅾ刻印"
+          "url": "https://ginzacelia.com/products/ケリー-25-セリエ-オンブレ-リザード-シルバー金具-ⅾ刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25  セリエ  ブラック エクリュ  トワルアッシュ ヴォースイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ケリー-25-セリエ-ブラック-エクリュ-トワルアッシュ-ヴォースイフト-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ケリー-25-セリエ-ブラック-エクリュ-トワルアッシュ-ヴォースイフト-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  セリエ  ヴェールクリケット  エプソン  ゴールド金具  Z 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-セリエ-ヴェールクリケット-エプソン-ゴールド金具-z-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-セリエ-ヴェールクリケット-エプソン-ゴールド金具-z-刻印",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  セリエ  ローズコンフェッティ  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-34"
+          "url": "https://ginzacelia.com/products/hermes-25-k-34",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  セリエ  ゴールド  エプソン  ゴールド金具　K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-33"
+          "url": "https://ginzacelia.com/products/hermes-25-k-33",
+          "source": "celia"
         },
         {
           "bag": "エブリン",
           "hardware": "ゴールド金具",
           "title": "HERMES エルメス　エブリン　TPM　セリエ　ブラック　エプソン　ゴールド金具　Ｋ刻印",
-          "url": "https://ginzacelia.com/products/hermes-tpm-7"
+          "url": "https://ginzacelia.com/products/hermes-tpm-7",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25  セリエ  モーヴシルベストル  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-sellier-mauvesylvestre-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/kelly25-sellier-mauvesylvestre-epsom-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  セリエ  ブルーグラシェ  エプソン  シルバー金具　K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-19"
+          "url": "https://ginzacelia.com/products/hermes-25-19",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  セリエ  クレ  エプソン  シルバー金具　Ｚ 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-20"
+          "url": "https://ginzacelia.com/products/hermes-25-20",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "シャンパンゴールド金具",
+          "title": "HERMES  エルメス  バーキン20  セリエ  フォーブル  グリミスティ  グリシメント  ブラック  アリゲーターマット  スイフト/エプソン  シャンパンゴールド金具  W 刻印",
+          "url": "https://ginzacelia.com/products/hermes-20-w",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  バーキン25  セリエ  ブラック  エプソン  シルバー金具  W 刻印",
+          "url": "https://ginzacelia.com/products/hermes-25-w-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "セリエ. ヴェールペパーミント",
@@ -1012,12 +1459,12 @@
       "examples": [
         {
           "bag": "ケリー",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES エルメス  ケリー 25  セリエ. ヴェールペパーミント  エプソン  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-3"
+          "url": "https://ginzacelia.com/products/hermes-25-k-3",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "セレステ",
@@ -1032,10 +1479,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリードゥ  セレステ  エプソン  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/ミニケリードゥ-セレステ-エプソン-シルバー金具-b-刻印"
+          "url": "https://ginzacelia.com/products/ミニケリードゥ-セレステ-エプソン-シルバー金具-b-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "タッチ",
@@ -1050,10 +1497,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  タッチ  ブラック  ヴォーマダム  アリゲーターマット  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-w-5"
+          "url": "https://ginzacelia.com/products/hermes-w-5",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "タータンライト",
@@ -1068,10 +1515,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー25  タータンライト  グリパール バブルガム ヴェールモワイヤン  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-tartanlight-grisperle-bubblegum-vertmoyen-swift-silver-k"
+          "url": "https://ginzacelia.com/products/kelly25-tartanlight-grisperle-bubblegum-vertmoyen-swift-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "チャイ モーヴシルベストル セレステ",
@@ -1086,10 +1533,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー ドール ピクト  チャイ モーヴシルベストル セレステ  エプソン  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/hermes-u-3"
+          "url": "https://ginzacelia.com/products/hermes-u-3",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "チャーム",
@@ -1104,10 +1551,10 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  チャーム  ケリーフェスティバル   ブラック  スイフト  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-25"
+          "url": "https://ginzacelia.com/products/hermes-k-25",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "テディ",
@@ -1122,22 +1569,24 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー  テディ  シャモア  エクリュ  アルザン  グリズリー  スイフト  ムートン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly-teddy-chamois-ecru-arzan-grizzly-swift-mouton-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly-teddy-chamois-ecru-arzan-grizzly-swift-mouton-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー  テディ  グリスカイユ エクリュ  エトゥープ  グリズリー スイフト  ムートン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ミニケリー-テディ-グリスカイユ-エクリ-エトゥープ-グリズリー-スイフト-ムートン-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ミニケリー-テディ-グリスカイユ-エクリ-エトゥープ-グリズリー-スイフト-ムートン-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー  テディ  グリスカイユ  エクリュ  エトゥープ  グリズリー  スイフト  ムートン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-39"
+          "url": "https://ginzacelia.com/products/hermes-k-39",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ディプブルー",
@@ -1152,10 +1601,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ディプブルー  オリガノ  シェーブルミゾル  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/hermes-u"
+          "url": "https://ginzacelia.com/products/hermes-u",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "トゥーゴー",
@@ -1170,22 +1619,24 @@
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  コンスタンス  トゥーゴー  ゴールド  アリゲーターマット  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/constancetogo-gold-alligatormatte-silver-k"
+          "url": "https://ginzacelia.com/products/constancetogo-gold-alligatormatte-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  ケリーウォレット ロング  トゥーゴー  ブラック  エプソン  シルバー金具  K刻印",
-          "url": "https://ginzacelia.com/products/ケリーウォレット-ロング-トゥーゴー-ブラック-エプソン-シルバー金具-k刻印"
+          "url": "https://ginzacelia.com/products/ケリーウォレット-ロング-トゥーゴー-ブラック-エプソン-シルバー金具-k刻印",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  コンスタンス  トゥーゴー  エトゥープ  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-16"
+          "url": "https://ginzacelia.com/products/hermes-k-16",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "トレンチ",
@@ -1200,22 +1651,24 @@
           "bag": "ピコタンロック",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック18  トレンチ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-k-9"
+          "url": "https://ginzacelia.com/products/hermes-18-k-9",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ26  トレンチ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-26-k-1"
+          "url": "https://ginzacelia.com/products/hermes-26-k-1",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  トレンチ  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-8"
+          "url": "https://ginzacelia.com/products/hermes-25-k-8",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "トールティエール",
@@ -1230,10 +1683,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  トールティエール  トゴ  シルバー金具　K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-17"
+          "url": "https://ginzacelia.com/products/hermes-25-k-17",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ナタ",
@@ -1251,28 +1704,31 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ナタ  アリゲーターマット  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-nata-alligatormatte-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-nata-alligatormatte-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ポシェットケリー  ナタ  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/pochettekelly-nata-swift-silver-k"
+          "url": "https://ginzacelia.com/products/pochettekelly-nata-swift-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ボリード",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ボリード1923 ミニ  ナタ  シェーブルミゾル   ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ボリード1923-ミニ-ナタ-シェーブルミゾル-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ボリード1923-ミニ-ナタ-シェーブルミゾル-ゴールド金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ボリード",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ボリード1923   ミニ  ナタ  シェーブルミゾル 　ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-1923-k-3"
+          "url": "https://ginzacelia.com/products/hermes-1923-k-3",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ナタ モーヴシルベストル ライム チャイ",
@@ -1287,10 +1743,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール ピクト  ナタ モーヴシルベストル ライム チャイ  エプソン  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/kellydollpict-nata-mauvesylvestre-lime-chai-epsom-silver-u"
+          "url": "https://ginzacelia.com/products/kellydollpict-nata-mauvesylvestre-lime-chai-epsom-silver-u",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ナチュラルサブレ",
@@ -1305,10 +1761,10 @@
           "bag": "エールバッグ ジップ ミニ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  エールバッグ  ジップ ミニ  ナチュラルサブレ  ヴァッシュハンター トワル  シルバー金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/hermes-36"
+          "url": "https://ginzacelia.com/products/hermes-36",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ニューブルージーン",
@@ -1323,34 +1779,38 @@
           "bag": "ピコタンロック",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック 18  ニューブルージーン  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-newbluejean-clemence-gold"
+          "url": "https://ginzacelia.com/products/picotinlock18-newbluejean-clemence-gold",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25 セリエ  ニューブルージーン  エプソン  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-sellier-newbluejeans-epsom-silver-b"
+          "url": "https://ginzacelia.com/products/kelly25-sellier-newbluejeans-epsom-silver-b",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ニューブルージーン  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-newbluejean-swift-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-newbluejean-swift-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー  25  ニューブルージーン  トゴ  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-newbluejean-togo-silver-b"
+          "url": "https://ginzacelia.com/products/kelly25-newbluejean-togo-silver-b",
+          "source": "celia"
         },
         {
           "bag": "ボリード",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  チャーム ボリード シャーク  ニューブルージーン  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/チャーム-ボリード-シャーク-ニューブルージーン-スイフト-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/チャーム-ボリード-シャーク-ニューブルージーン-スイフト-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ニューホワイト",
@@ -1365,16 +1825,17 @@
           "bag": "ボリード",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ボリード  1923  25  ニューホワイト  エバーカラー  ゴールド金具   K  刻印",
-          "url": "https://ginzacelia.com/products/hermes-1923-25-k"
+          "url": "https://ginzacelia.com/products/hermes-1923-25-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ  ミニ  ニューホワイト  トリヨンクレマンス　ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-w-8"
+          "url": "https://ginzacelia.com/products/hermes-w-8",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ネックレス",
@@ -1389,16 +1850,29 @@
           "bag": "ケリー",
           "hardware": "",
           "title": "HERMES エルメス  ネックレス  ペンダント  アミュレット  ケリー",
-          "url": "https://ginzacelia.com/products/ペンダント-アミュレット-ケリー-ネックレス"
+          "url": "https://ginzacelia.com/products/ペンダント-アミュレット-ケリー-ネックレス",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "",
           "title": "HERMES エルメス  ネックレス  ケリー チェーン  シルバー",
-          "url": "https://ginzacelia.com/products/hermes-27"
+          "url": "https://ginzacelia.com/products/hermes-27",
+          "source": "celia"
         }
+      ]
+    },
+    {
+      "ja": "ノワール",
+      "en": "Black",
+      "fr": "Noir",
+      "zh": "黑色",
+      "aliases": [
+        "black",
+        "noir",
+        "ノワール"
       ],
-      "source": "ginzacelia"
+      "examples": []
     },
     {
       "ja": "バイブルン",
@@ -1413,22 +1887,24 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  バイブルン  トゴ  ゴールド金具  K 金具",
-          "url": "https://ginzacelia.com/products/kelly25-vibrun-togo-gold-k"
+          "url": "https://ginzacelia.com/products/kelly25-vibrun-togo-gold-k",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  バイブルン  ヴォーマダム  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-28"
+          "url": "https://ginzacelia.com/products/hermes-k-28",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  バイブルン  トワル スイフト  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-24"
+          "url": "https://ginzacelia.com/products/hermes-25-k-24",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "パールグレー",
@@ -1443,10 +1919,10 @@
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  パールグレー  ヴェールマングローブ  トリヨンクレマンス スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-k-1"
+          "url": "https://ginzacelia.com/products/hermes-18-k-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヒマラヤ",
@@ -1461,10 +1937,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ヒマラヤ  ニロティカスマット  シルバー金具  □Q 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-himalaya-niloticusmatte-silver-q"
+          "url": "https://ginzacelia.com/products/birkin25-himalaya-niloticusmatte-silver-q",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ビスキュイ",
@@ -1479,22 +1955,24 @@
           "bag": "エブリン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  エブリン TPM  ビスキュイ  トリヨンクレマンス  ゴールド金具  Z 刻印",
-          "url": "https://ginzacelia.com/products/evelyne-tpm-biscuit-clemence-gold-z"
+          "url": "https://ginzacelia.com/products/evelyne-tpm-biscuit-clemence-gold-z",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキンショルダー ライト 29  ビスキュイ  エバーカラー  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキンショルダー-ライト-29-ビスキュイ-エバーカラー-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキンショルダー-ライト-29-ビスキュイ-エバーカラー-ゴールド金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール ピクト  ビスキュイ  ブルーフリーダ  モーヴペール  ローズテキサス  エプソン  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/kellydollpicto-biscuit-bleufrida-mauvepale-rosetexas-epsom-palladium-w"
+          "url": "https://ginzacelia.com/products/kellydollpicto-biscuit-bleufrida-mauvepale-rosetexas-epsom-palladium-w",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ピンク",
@@ -1509,10 +1987,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ピンク  エプソン  シルバー金具  Z 刻印",
-          "url": "https://ginzacelia.com/products/hermes-22"
+          "url": "https://ginzacelia.com/products/hermes-22",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "フォーブ",
@@ -1527,10 +2005,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  フォーブ  バレニア  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-フォーブ-バレニア-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-フォーブ-バレニア-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "フォーヴ ナチュラル",
@@ -1545,10 +2023,10 @@
           "bag": "エールバッグ ジップ ミニ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  エールバッグ  ジップ ミニ  フォーヴ ナチュラル  ヴァッシュハンター トワル ミリタリー  シルバー金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/hermes"
+          "url": "https://ginzacelia.com/products/hermes",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "フラミンゴ",
@@ -1563,10 +2041,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  フラミンゴ  エプソン  シルバー金具  □Q 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-q-1"
+          "url": "https://ginzacelia.com/products/hermes-35-q-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "フリンジ",
@@ -1581,10 +2059,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリーダンス  フリンジ  ブラック  スイフト  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-w-12"
+          "url": "https://ginzacelia.com/products/hermes-w-12",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブラック",
@@ -1601,76 +2079,129 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ブラック  エプソン  ゴールド金具  G 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-black-epsom-gold-g"
+          "url": "https://ginzacelia.com/products/minikelly2-black-epsom-gold-g",
+          "source": "celia"
         },
         {
           "bag": "エールバッグ ジップ ミニ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  エールバッグ  ジップ  ミニ  ブラック  トワル   ヴァッシュハンター  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/herbagzip-mini-black-toile-vachehunter-silver-k"
+          "url": "https://ginzacelia.com/products/herbagzip-mini-black-toile-vachehunter-silver-k",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス エラン",
-          "hardware": "ゴールド金具",
+          "hardware": "マットシャンパンゴールド金具",
           "title": "HERMES  エルメス  コンスタンス  エラン  ブラック  エプソン  マットシャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/constanceelan-black-epsom-mattchampagnegold-k"
+          "url": "https://ginzacelia.com/products/constanceelan-black-epsom-mattchampagnegold-k",
+          "source": "celia"
         },
         {
           "bag": "エブリン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  エブリン  23  ブラック  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/エブリン-23-ブラック-トリヨンクレマンス-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/エブリン-23-ブラック-トリヨンクレマンス-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック 18  ブラック  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-black-clemence-gold-k1"
+          "url": "https://ginzacelia.com/products/picotinlock18-black-clemence-gold-k1",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  リンディ ミニ  ブラック  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy-mini-black-clemence-gold-k"
+          "url": "https://ginzacelia.com/products/lindy-mini-black-clemence-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ブラック  トゴ  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-ブラック-トゴ-シルバー金具-u-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-ブラック-トゴ-シルバー金具-u-刻印",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ブラック  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-black-epsom-gold-k"
+          "url": "https://ginzacelia.com/products/minikelly2-black-epsom-gold-k",
+          "source": "celia"
         },
         {
           "bag": "エールバッグ ジップ ミニ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  エールバッグ  ジップ  ミニ  ブラック  ヴァッシュハンター  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/herbagzip-mini-black-vachehunter-silver-k"
+          "url": "https://ginzacelia.com/products/herbagzip-mini-black-vachehunter-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ガーデンパーティ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ TPM  ブラック  ネゴンダ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-tpm-black-negonda-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-tpm-black-negonda-silver-k",
+          "source": "celia"
         },
         {
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ ミニ  ブラック  オーストリッチ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/lindy-mini-black-ostrich-silver-k"
+          "url": "https://ginzacelia.com/products/lindy-mini-black-ostrich-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリーカット  ブラック  エプソン  シルバー金具  K刻印",
-          "url": "https://ginzacelia.com/products/kellycut-black-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/kellycut-black-epsom-silver-k",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  バーキン 25  ブラック  アリゲーターマット  シルバー金具  K 刻印",
+          "url": "https://ginzacelia.com/products/birkin25-black-alligatormatte-silver-k",
+          "source": "celia"
+        },
+        {
+          "bag": "ミニケリー ドゥ",
+          "hardware": "ゴールド金具",
+          "title": "HERMES  エルメス  ミニケリー ドゥ  ブラック  アリゲーターシャイン  ゴールド金具  K 刻印",
+          "url": "https://ginzacelia.com/products/minikelly2-black-alligatorshine-gold-k",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  バーキン 25  ブラック  ニロティカスシャイン  シルバー金具  K 刻印",
+          "url": "https://ginzacelia.com/products/birkin25-black-niloticusshine-silver-k",
+          "source": "celia"
+        },
+        {
+          "bag": "バーキン",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  バーキン 25  SPO  ブラック  ナタ  シェーブルミゾル  マットシルバー金具  B 刻印",
+          "url": "https://ginzacelia.com/products/birkin25-spo-black-nata-chevre-mattsilver-b",
+          "source": "celia"
+        },
+        {
+          "bag": "ピコタンロック",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  ピコタンロック 22  ブラック  トリヨンクレマンス  シルバー金具  K 刻印",
+          "url": "https://ginzacelia.com/products/hermes-エルメス-ピコタンロック-22-ブラック-トリヨンクレマンス-シルバー金具-k-刻印",
+          "source": "celia"
+        },
+        {
+          "bag": "コンスタンス",
+          "hardware": "シルバー金具",
+          "title": "HERMES  エルメス  コンスタンス ミロワール 19  ブラック  エプソン  シルバー金具  W 刻印",
+          "url": "https://ginzacelia.com/products/constance19-miroir-black-epsom-silver-w",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブラック エクリュ ヴェールアマンド",
@@ -1685,10 +2216,10 @@
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ ネオ  ブラック エクリュ ヴェールアマンド  トワルアッシュ ネゴンダ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-neo-black-ecru-vertamande-toileh-negonda-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-neo-black-ecru-vertamande-toileh-negonda-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブラック クレ",
@@ -1703,10 +2234,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ SPO  ブラック クレ  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-spo-black-craie-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-spo-black-craie-epsom-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブラック グリペール",
@@ -1719,12 +2250,12 @@
       "examples": [
         {
           "bag": "バーキン",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  SPO  ブラック グリペール  トゴ  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-spo-k-1"
+          "url": "https://ginzacelia.com/products/hermes-25-spo-k-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブラック パルシュマン",
@@ -1739,10 +2270,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  SPO  ブラック パルシュマン  オーストリッチ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-spo-black-parchemin-ostrich-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-spo-black-parchemin-ostrich-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブラック ヴェールペパーミント",
@@ -1757,10 +2288,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25 カザック エトワール セリエ アルドワーズ  ブラック ヴェールペパーミント  エプソン タデラクト シェーブルミゾル  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/ケリー-25-カザック-エトワール-セリエ-アルドワーズ-ブラック-ヴェールペパーミント-エプソン-タデラクト-シェーブルミゾル-シルバー金具-w-刻印"
+          "url": "https://ginzacelia.com/products/ケリー-25-カザック-エトワール-セリエ-アルドワーズ-ブラック-ヴェールペパーミント-エプソン-タデラクト-シェーブルミゾル-シルバー金具-w-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブルーアンクル",
@@ -1775,10 +2306,22 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ブルーアンクル  ポロサスシャイン  シルバー金具  D 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-blueencre-porosusshine-silver-d"
+          "url": "https://ginzacelia.com/products/birkin25-blueencre-porosusshine-silver-d",
+          "source": "celia"
         }
+      ]
+    },
+    {
+      "ja": "ブルーインディゴ",
+      "en": "Blue Indigo",
+      "fr": "Bleu Indigo",
+      "zh": "靛蓝",
+      "aliases": [
+        "blue indigo",
+        "bleu indigo",
+        "ブルーインディゴ"
       ],
-      "source": "ginzacelia"
+      "examples": []
     },
     {
       "ja": "ブルーエレクトリック",
@@ -1791,12 +2334,12 @@
       "examples": [
         {
           "bag": "ケリー",
-          "hardware": "ゴールド金具",
+          "hardware": "シャンパンゴールド金具",
           "title": "HERMES  エルメス  ポシェットケリー SPO  ブルーエレクトリック  ナタ  アリゲーターシャイン  シャンパンゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-spo-k-1"
+          "url": "https://ginzacelia.com/products/hermes-spo-k-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブルーグラシェ",
@@ -1811,16 +2354,17 @@
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  ブルーグラシェ  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-k-7"
+          "url": "https://ginzacelia.com/products/hermes-18-k-7",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ブルーグラシェ  トワル スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-23"
+          "url": "https://ginzacelia.com/products/hermes-25-k-23",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブルーグラシエ",
@@ -1835,10 +2379,23 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール  ブルーグラシエ  ヴェールマキ  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kellydoll-blueglacier-vertmaquis-swift-silver-k"
+          "url": "https://ginzacelia.com/products/kellydoll-blueglacier-vertmaquis-swift-silver-k",
+          "source": "celia"
         }
+      ]
+    },
+    {
+      "ja": "ブルージーン",
+      "en": "Blue Jean",
+      "fr": "Bleu Jean",
+      "zh": "牛仔蓝",
+      "aliases": [
+        "blue jean",
+        "bleu jean",
+        "牛仔蓝",
+        "ブルージーン"
       ],
-      "source": "ginzacelia"
+      "examples": []
     },
     {
       "ja": "ブルータイ キャバン",
@@ -1853,10 +2410,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール  ブルータイ キャバン  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kellydoll-bluetie-caban-swift-silver-k"
+          "url": "https://ginzacelia.com/products/kellydoll-bluetie-caban-swift-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブルードミニュイ",
@@ -1871,10 +2428,34 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES エルメス  ケリー 25  ブルードミニュイ  ヴォーマダム  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ケリー-25-ブルードミニュイ-ヴォーマダム-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ケリー-25-ブルードミニュイ-ヴォーマダム-ゴールド金具-k-刻印",
+          "source": "celia"
         }
+      ]
+    },
+    {
+      "ja": "ブルーニュイ",
+      "en": "Blue Nuit",
+      "fr": "Bleu Nuit",
+      "zh": "午夜蓝",
+      "aliases": [
+        "blue nuit",
+        "bleu nuit",
+        "ブルーニュイ"
       ],
-      "source": "ginzacelia"
+      "examples": []
+    },
+    {
+      "ja": "ブルーフランス",
+      "en": "Blue France",
+      "fr": "Bleu France",
+      "zh": "法国蓝",
+      "aliases": [
+        "blue france",
+        "bleu france",
+        "ブルーフランス"
+      ],
+      "examples": []
     },
     {
       "ja": "ブルーペール",
@@ -1889,10 +2470,10 @@
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  ブルーペール  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-w-5"
+          "url": "https://ginzacelia.com/products/hermes-18-w-5",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブレスレット",
@@ -1907,16 +2488,17 @@
           "bag": "ケリー",
           "hardware": "",
           "title": "HERMES  エルメス  ブレスレット  ケリー  PM  SH  フルパヴェダイヤ  ホワイトゴールド",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-ブレスレット-ケリー-pm-sh-フルパヴェダイヤ-ホワイトゴールド"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-ブレスレット-ケリー-pm-sh-フルパヴェダイヤ-ホワイトゴールド",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "",
           "title": "HERMES エルメス  ブレスレット   ミニ・クリック・ケリー",
-          "url": "https://ginzacelia.com/products/ブレスレット-ミニ-クリック-ケリー"
+          "url": "https://ginzacelia.com/products/ブレスレット-ミニ-クリック-ケリー",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ブーゲンビリア",
@@ -1931,10 +2513,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリーウォレット  ブーゲンビリア  オーストリッチ  シルバー金具  □R 刻印",
-          "url": "https://ginzacelia.com/products/hermes-r"
+          "url": "https://ginzacelia.com/products/hermes-r",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "プロン",
@@ -1949,10 +2531,10 @@
           "bag": "ケリー",
           "hardware": "",
           "title": "HERMES  エルメス  ケリー 25  プロン  エプソン  エレクトラム金具  K 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-plomb-epsom-electrum-k"
+          "url": "https://ginzacelia.com/products/kelly25-plomb-epsom-electrum-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ベトン",
@@ -1967,52 +2549,59 @@
           "bag": "ピコタンロック",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック 18  ベトン  トリヨンクレマンス  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-beton-clemence-gold-w"
+          "url": "https://ginzacelia.com/products/picotinlock18-beton-clemence-gold-w",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ベトン  トゴ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-beton-togo-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-beton-togo-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  ベトン  トゴ  ゴールド金具  B 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-beton-togo-gold-b"
+          "url": "https://ginzacelia.com/products/birkin25-beton-togo-gold-b",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ベトン   アリゲーターマット  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-40"
+          "url": "https://ginzacelia.com/products/hermes-k-40",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ベトン  ポロサスマット  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-w-11"
+          "url": "https://ginzacelia.com/products/hermes-25-w-11",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン25  ベトン  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-19"
+          "url": "https://ginzacelia.com/products/hermes-25-k-19",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ポシェットケリー  ベトン  オーストリッチ  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-w-11"
+          "url": "https://ginzacelia.com/products/hermes-w-11",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 35  ベトン  アリゲーター  ゴールド金具  □Q 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-q"
+          "url": "https://ginzacelia.com/products/hermes-35-q",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ホイールズ",
@@ -2027,10 +2616,10 @@
           "bag": "ボリード",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ボリード オン  ホイールズ  ヴェールフィズ  エプソン  シルバー金具   B 刻印",
-          "url": "https://ginzacelia.com/products/hermes-b-6"
+          "url": "https://ginzacelia.com/products/hermes-b-6",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ボルドー",
@@ -2046,16 +2635,17 @@
           "bag": "ケリースポーツ",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリースポーツ PM   ボルドー  エプソン  ゴールド金具  □B 刻印",
-          "url": "https://ginzacelia.com/products/kellysport-pm-bordeaux-epsom-gold-b"
+          "url": "https://ginzacelia.com/products/kellysport-pm-bordeaux-epsom-gold-b",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  ボルドー  ポロサスシャイン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-27"
+          "url": "https://ginzacelia.com/products/hermes-25-k-27",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ポーチ",
@@ -2070,10 +2660,10 @@
           "bag": "ボリード",
           "hardware": "",
           "title": "HERMES  エルメス  ポーチ  ボリード  ミニ  ブラック  コットンキャンバス",
-          "url": "https://ginzacelia.com/products/hermes-1"
+          "url": "https://ginzacelia.com/products/hermes-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "マッシュルーム",
@@ -2088,16 +2678,17 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー 25  マッシュルーム  トゴ  ゴールド金具  B 刻印",
-          "url": "https://ginzacelia.com/products/kelly25-mushroom-togo-gold-b"
+          "url": "https://ginzacelia.com/products/kelly25-mushroom-togo-gold-b",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  マッシュルーム  トゴ  ゴールド金具  B 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-マッシュルーム-トゴ-ゴールド金具-b-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-マッシュルーム-トゴ-ゴールド金具-b-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ミロワール",
@@ -2112,34 +2703,38 @@
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  コンスタンス 19  ミロワール  モーヴシルベスト  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/constance19-miroir-mauvesylvestre-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/constance19-miroir-mauvesylvestre-epsom-silver-k",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  コンスタンス 19  ミロワール  ローズバブルガム  オーストリッチ  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/constance19-miroir-rosebubblegum-ostrich-silver-w"
+          "url": "https://ginzacelia.com/products/constance19-miroir-rosebubblegum-ostrich-silver-w",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  コンスタンス 19  ミロワール  ゴールド  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/constance19-miroir-gold-epsom-gold-k"
+          "url": "https://ginzacelia.com/products/constance19-miroir-gold-epsom-gold-k",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  コンスタンス 19  ミロワール  クレ  エプソン  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-コンスタンス-19-ミロワール-クレ-エプソン-ゴールド金具-w-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-コンスタンス-19-ミロワール-クレ-エプソン-ゴールド金具-w-刻印",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  コンスタンス  ミロワール    19  ブラック  リザード  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/コンスタンス-ミロワール-19-ブラック-リザード-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/コンスタンス-ミロワール-19-ブラック-リザード-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ミント",
@@ -2154,10 +2749,10 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ポシェットケリー  ミント  リザード  ゴールド金具　B 刻印",
-          "url": "https://ginzacelia.com/products/hermes-b-3"
+          "url": "https://ginzacelia.com/products/hermes-b-3",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "モーヴシルベストル",
@@ -2175,16 +2770,17 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25  モーヴシルベストル  スイフト  シルバー金具  Z 刻印",
-          "url": "https://ginzacelia.com/products/ケリー-25-モーヴシルベストル-スイフト-シルバー金具-z-刻印"
+          "url": "https://ginzacelia.com/products/ケリー-25-モーヴシルベストル-スイフト-シルバー金具-z-刻印",
+          "source": "celia"
         },
         {
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  モーヴシルベストル  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-mauvesylvestre-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-mauvesylvestre-epsom-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "モーヴペール",
@@ -2199,10 +2795,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  モーヴペール  アリゲーターマット  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/ミニケリー-ドゥ-モーヴペール-アリゲーターマット-シルバー金具-u-刻印"
+          "url": "https://ginzacelia.com/products/ミニケリー-ドゥ-モーヴペール-アリゲーターマット-シルバー金具-u-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "モーヴペール グリペール",
@@ -2217,10 +2813,10 @@
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ  ミニ  モーヴペール グリペール  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-w"
+          "url": "https://ginzacelia.com/products/hermes-w",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ライト 29",
@@ -2235,10 +2831,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキンショルダー  ライト 29  エトゥープ  エバーカラー  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkinshoulder-light29-etoupe-evercolor-silver-k"
+          "url": "https://ginzacelia.com/products/birkinshoulder-light29-etoupe-evercolor-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ライム",
@@ -2253,10 +2849,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ライム  グリペール  シェーブルミゾル スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-lime-grisperle-chevre-swift-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-lime-grisperle-chevre-swift-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ラリアット",
@@ -2271,10 +2867,10 @@
           "bag": "ケリー",
           "hardware": "",
           "title": "HERMES  エルメス  ケリー シェーヌ  ラリアット  ネックレス  ダイヤモンド  ペンダント",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-ケリー-シェーヌ-ラリアット-ネックレス-ダイヤモンド-ペンダント"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-ケリー-シェーヌ-ラリアット-ネックレス-ダイヤモンド-ペンダント",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルトゥルネ",
@@ -2289,10 +2885,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 35  ルトゥルネ  マンゴー  エプソン  ゴールド金具  □P 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-p-3"
+          "url": "https://ginzacelia.com/products/hermes-35-p-3",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュアッシュ",
@@ -2311,40 +2907,45 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ルージュアッシュ  トゴ  シルバー金具  G 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-rougeh-togo-silver-g"
+          "url": "https://ginzacelia.com/products/birkin25-rougeh-togo-silver-g",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ピコタンロック 18  ルージュアッシュ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-rougeh-togo-gold-k"
+          "url": "https://ginzacelia.com/products/picotinlock18-rougeh-togo-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  ルージュアッシュ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-ルージュアッシュ-トゴ-ゴールド金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-ルージュアッシュ-トゴ-ゴールド金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES エルメス  バーキン 25  ルージュアッシュ  トゴ  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-rouge-ash-togo-gold-k"
+          "url": "https://ginzacelia.com/products/birkin25-rouge-ash-togo-gold-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 35  ルージュアッシュ  アリゲーターマット  ゴールド金具  □M 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-m-2"
+          "url": "https://ginzacelia.com/products/hermes-35-m-2",
+          "source": "celia"
         },
         {
           "bag": "エブリン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  エブリン TPM  ルージュアッシュ  トリヨンクレマンス  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-tpm-k-6"
+          "url": "https://ginzacelia.com/products/hermes-tpm-k-6",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュアッシュ エクリュ",
@@ -2359,10 +2960,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ルージュアッシュ エクリュ  トワル スイフト  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-b-1"
+          "url": "https://ginzacelia.com/products/hermes-25-b-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュグレナ",
@@ -2377,10 +2978,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  ルージュグレナ  トゴ  ゴールド金具  Ａ 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-rougegrenat-togo-gold-a"
+          "url": "https://ginzacelia.com/products/birkin25-rougegrenat-togo-gold-a",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュセリエ",
@@ -2395,10 +2996,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25 タッチ  ルージュセリエ  トゴ  アリゲーターマット  ゴールド金具  B 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-touch-rougesellier-togo-alligatormatte-gold-b"
+          "url": "https://ginzacelia.com/products/birkin25-touch-rougesellier-togo-alligatormatte-gold-b",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュピーマン",
@@ -2413,10 +3014,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ルージュピーマン  ボックスカーフ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/ミニケリー-ドゥ-ルージュピーマン-ボックスカーフ-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/ミニケリー-ドゥ-ルージュピーマン-ボックスカーフ-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュラデュ/ルージュアッシュ",
@@ -2431,10 +3032,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリードール  ルージュラデュ/ルージュアッシュ  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-38"
+          "url": "https://ginzacelia.com/products/hermes-k-38",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ルージュラデュー",
@@ -2449,10 +3050,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ルージュラデュー  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-rougeladu-epsom-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-rougeladu-epsom-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ロング",
@@ -2467,16 +3068,17 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES エルメス  ケリーウォレット  ロング  トゥーゴー  エトゥープ  エプソン  ゴールド金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k"
+          "url": "https://ginzacelia.com/products/hermes-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリーウォレット   ロング   トゥーゴー ブラック  エプソン  ゴールド金具  B 刻印",
-          "url": "https://ginzacelia.com/products/hermes-b-1"
+          "url": "https://ginzacelia.com/products/hermes-b-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズアザレ",
@@ -2493,22 +3095,24 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25 SPO  ローズアザレ  エプソン  シルバー金具  C 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-spo-roseazalee-epsom-silver-c"
+          "url": "https://ginzacelia.com/products/birkin25-spo-roseazalee-epsom-silver-c",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ローズアザレ  スイフト  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-roseazalee-swift-silver-w"
+          "url": "https://ginzacelia.com/products/birkin25-roseazalee-swift-silver-w",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18  ローズアザレ  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-w-4"
+          "url": "https://ginzacelia.com/products/hermes-18-w-4",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズアザレ クレ",
@@ -2523,10 +3127,10 @@
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリードール  SPO  ローズアザレ クレ  スイフト  ゴールド金具  C 刻印",
-          "url": "https://ginzacelia.com/products/ケリードール-spo-ローズアザレ-クレ-スイフト-ゴールド金具-c-刻印"
+          "url": "https://ginzacelia.com/products/ケリードール-spo-ローズアザレ-クレ-スイフト-ゴールド金具-c-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズコンフェッティ",
@@ -2541,10 +3145,10 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ローズコンフェッティ  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-17"
+          "url": "https://ginzacelia.com/products/hermes-k-17",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズサクラ",
@@ -2559,46 +3163,52 @@
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック 18  ローズサクラ  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/picotinlock18-rosesakura-clemence-silver-w"
+          "url": "https://ginzacelia.com/products/picotinlock18-rosesakura-clemence-silver-w",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  バーキン 25  ローズサクラ  ブルーブリュム  シェーブルミゾル  マットシルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-25-ローズサクラ-ブルーブリューム-シェーブルミゾル-マットシルバー金具-w-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-25-ローズサクラ-ブルーブリューム-シェーブルミゾル-マットシルバー金具-w-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  ポシェットケリー  ローズサクラ  スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/pochettekelly-rosesakura-swift-silver-k"
+          "url": "https://ginzacelia.com/products/pochettekelly-rosesakura-swift-silver-k",
+          "source": "celia"
         },
         {
           "bag": "エブリン",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  エブリン TPM  ローズサクラ  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/エブリン-tpm-ローズサクラ-トリヨンクレマンス-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/エブリン-tpm-ローズサクラ-トリヨンクレマンス-シルバー金具-k-刻印",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ポシェットケリー  ローズサクラ  スイフト  シルバー金具  Ｋ 刻印",
-          "url": "https://ginzacelia.com/products/hermes-41"
+          "url": "https://ginzacelia.com/products/hermes-41",
+          "source": "celia"
         },
         {
           "bag": "コンスタンス",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  コンスタンス ミロワール 19  ローズサクラ  シェーブルミゾル  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-19-k-6"
+          "url": "https://ginzacelia.com/products/hermes-19-k-6",
+          "source": "celia"
         },
         {
           "bag": "ピコタンロック",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ピコタンロック18   ローズサクラ  トリヨンクレマンス  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-18-w"
+          "url": "https://ginzacelia.com/products/hermes-18-w",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズサクラ グリペール",
@@ -2613,10 +3223,10 @@
           "bag": "リンディ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  リンディ  ミニ  ローズサクラ グリペール  トリヨンクレマンス  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-k-9"
+          "url": "https://ginzacelia.com/products/hermes-k-9",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズシェヘラザード",
@@ -2631,10 +3241,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリーウォレット  ローズシェヘラザード  アリゲーターシャイン  シルバー金具  □O 刻印",
-          "url": "https://ginzacelia.com/products/hermes-o"
+          "url": "https://ginzacelia.com/products/hermes-o",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズダーリン",
@@ -2649,10 +3259,10 @@
           "bag": "ボリード",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ボリード1923  ミニ  ローズダーリン  シェーブルミゾル   シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-1923-k"
+          "url": "https://ginzacelia.com/products/hermes-1923-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズティリアン",
@@ -2667,10 +3277,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  ローズティリアン  ポロサスシャイン  シルバー金具  □P 刻印",
-          "url": "https://ginzacelia.com/products/hermes-35-p-1"
+          "url": "https://ginzacelia.com/products/hermes-35-p-1",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズバブルガム",
@@ -2685,22 +3295,24 @@
           "bag": "ミニケリー ドゥ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリー ドゥ  ローズバブルガム  オーストリッチ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2-rosebubblegum-ostrich-silver-k"
+          "url": "https://ginzacelia.com/products/minikelly2-rosebubblegum-ostrich-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ローズバブルガム  オーストリッチ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-rosebubblegum-ostrich-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-rosebubblegum-ostrich-silver-k",
+          "source": "celia"
         },
         {
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ローズバブルガム  オーストリッチ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-ローズバブルガム-オーストリッチ-シルバー金具-k-刻印"
+          "url": "https://ginzacelia.com/products/hermes-エルメス-バーキン-25-ローズバブルガム-オーストリッチ-シルバー金具-k-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ローズパープル",
@@ -2715,10 +3327,10 @@
           "bag": "ガーデンパーティ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ 30  ローズパープル  トワル カントリー  シルバー金具  C 刻印",
-          "url": "https://ginzacelia.com/products/hermes-30-c"
+          "url": "https://ginzacelia.com/products/hermes-30-c",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールアマンド",
@@ -2733,10 +3345,10 @@
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ ネオ  トゴ  ヴェールアマンド  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-neo-vertamande-togo-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-neo-vertamande-togo-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールコミック ヴェールヴェロン",
@@ -2751,10 +3363,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ミニケリードゥタッチ  ヴェールコミック ヴェールヴェロン  ヴォーマダム リザード  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/minikelly2touch-vertcomic-vertveron-madame-lizard-silver-b"
+          "url": "https://ginzacelia.com/products/minikelly2touch-vertcomic-vertveron-madame-lizard-silver-b",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールデュー",
@@ -2769,10 +3381,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25  SPO  ヴェールデュー  グリペール  アリゲーターマット  シルバー金具  U 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-spo-u"
+          "url": "https://ginzacelia.com/products/hermes-25-spo-u",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールフィズ",
@@ -2788,10 +3400,10 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 無秩序  ヴェールフィズ  エプソン  シルバー金具  B 刻印",
-          "url": "https://ginzacelia.com/products/無秩序-ヴェールフィズ-エプソン-シルバー金具-b刻印"
+          "url": "https://ginzacelia.com/products/無秩序-ヴェールフィズ-エプソン-シルバー金具-b刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールフォンセ",
@@ -2806,10 +3418,10 @@
           "bag": "バーキン",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  バーキン 25  ヴェールフォンセ  トゴ　ゴールド金具　W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-w-12"
+          "url": "https://ginzacelia.com/products/hermes-25-w-12",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールマングローブ",
@@ -2824,10 +3436,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 25  ヴェールマングローブ  トワル スイフト  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/birkin25-vertmangrove-toile-swift-silver-k"
+          "url": "https://ginzacelia.com/products/birkin25-vertmangrove-toile-swift-silver-k",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールモワイヤン",
@@ -2842,16 +3454,17 @@
           "bag": "ガーデンパーティ ネオ",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ガーデンパーティ ネオ  ヴェールモワイヤン  ネゴンダ  トワルアッシュ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/gardenparty-neo-vertmoyen-negonda-toileh-silver-k"
+          "url": "https://ginzacelia.com/products/gardenparty-neo-vertmoyen-negonda-toileh-silver-k",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス ポシェットケリー  ヴェールモワイヤン  スイフト  ゴールド金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-w-3"
+          "url": "https://ginzacelia.com/products/hermes-w-3",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールヴェルティゴ",
@@ -2866,10 +3479,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス  バーキン 25 カーゴ  ヴェールヴェルティゴ  トワル  スイフト  シルバー金具　K刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-4"
+          "url": "https://ginzacelia.com/products/hermes-25-k-4",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "ヴェールヴェロネーズ グリアガット",
@@ -2884,10 +3497,10 @@
           "bag": "コンスタンス",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  コンスタンス マルケット 18   ヴェールヴェロネーズ グリアガット  アリゲーターシャイン リザード  ゴールド金具  X 刻印",
-          "url": "https://ginzacelia.com/products/constancemarquet18-vertveronese-grisagate-alligatorshine-lizard-gold-x"
+          "url": "https://ginzacelia.com/products/constancemarquet18-vertveronese-grisagate-alligatorshine-lizard-gold-x",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "外",
@@ -2902,52 +3515,59 @@
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー 25  外  パルシュマン  オーストリッチ  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-21"
+          "url": "https://ginzacelia.com/products/hermes-25-k-21",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー25  外  ニューホワイト  エプソン  シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-18"
+          "url": "https://ginzacelia.com/products/hermes-25-k-18",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー25  外  ブラック  エプソン  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-w-13"
+          "url": "https://ginzacelia.com/products/hermes-25-w-13",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー25  外  ゴールド  エプソン  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-13"
+          "url": "https://ginzacelia.com/products/hermes-25-13",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー25  外  セレステ  エプソン　シルバー金具  K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-13"
+          "url": "https://ginzacelia.com/products/hermes-25-k-13",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  ケリー25  外  トリコ  クレ モーヴペール ゴールド  エプソン  シルバー金具  W 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-w-7"
+          "url": "https://ginzacelia.com/products/hermes-25-w-7",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "ゴールド金具",
           "title": "HERMES  エルメス  ケリー25  外  エトゥープ  エプソン  ゴールド金具　K 刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-14"
+          "url": "https://ginzacelia.com/products/hermes-25-k-14",
+          "source": "celia"
         },
         {
           "bag": "ケリー",
           "hardware": "シルバー金具",
           "title": "HERMES エルメス　ケリー25　外　エトゥープ　エプソン　シルバー金具　K刻印",
-          "url": "https://ginzacelia.com/products/hermes-25-k-9"
+          "url": "https://ginzacelia.com/products/hermes-25-k-9",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     },
     {
       "ja": "海とサーフとファン",
@@ -2962,10 +3582,10 @@
           "bag": "バーキン",
           "hardware": "シルバー金具",
           "title": "HERMES  エルメス  バーキン 35  海とサーフとファン  ブルーサフィール  トリヨンノビーヨ トワルアッシュ  シルバー金具  C 刻印",
-          "url": "https://ginzacelia.com/products/バーキン-35-海とサーフとファン-ブルーサフィール-トリヨンノビーヨ-トワルアッシュ-シルバー金具-c-刻印"
+          "url": "https://ginzacelia.com/products/バーキン-35-海とサーフとファン-ブルーサフィール-トリヨンノビーヨ-トワルアッシュ-シルバー金具-c-刻印",
+          "source": "celia"
         }
-      ],
-      "source": "ginzacelia"
+      ]
     }
   ]
 }

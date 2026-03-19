@@ -49,7 +49,9 @@
       '愛马仕红': ['ルージュアッシュ','rouge h','hermes red'],
       '爱马仕红': ['ルージュアッシュ','rouge h','hermes red'],
       '奶昔白': ['ナタ','nata','クレ','craie'],
-      '锦葵紫': ['モーヴシルベストル','mauve sylvestre']
+      '锦葵紫': ['モーヴシルベストル','mauve sylvestre'],
+      '牛仔蓝': ['ブルージーン','blue jean','bleu jean'],
+      '珍珠灰': ['グリペール','gris perle','pearl grey']
     };
 
     function expandQuery(q){
@@ -97,7 +99,7 @@
             <div class="ex">
               <div class="k">样本（包型 / 金具）</div>
               <ul>
-                ${ex.map(e=>`<li>${e.bag||'未识别包型'} / ${e.hardware||'未识别金具'} · <a href="${e.url}" target="_blank" rel="noopener">查看商品</a></li>`).join('')}
+                ${ex.map(e=>`<li>[${e.source||'unknown'}] ${e.bag||'未识别包型'} / ${e.hardware||'未识别金具'} · <a href="${e.url}" target="_blank" rel="noopener">查看商品</a></li>`).join('')}
               </ul>
             </div>
           </div>
