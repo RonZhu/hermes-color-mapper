@@ -110,6 +110,9 @@ def is_stamp_or_noise(token: str):
     )
 
 
+INVALID_COLOR_TOKENS = {"外", "外缝", "内缝", "To", "HSS"}
+
+
 def infer_color(tokens, model, hardware):
     for t in tokens:
         s = t.strip()
@@ -126,6 +129,8 @@ def infer_color(tokens, model, hardware):
         if any(h in s for h in MATERIAL_HINTS_JA) or any(h in s for h in MATERIAL_HINTS_EN):
             continue
         if re.search(r"\d", s) and len(s) <= 4:
+            continue
+        if len(s) <= 1 or s in INVALID_COLOR_TOKENS:
             continue
         return s
     return ""
@@ -249,15 +254,27 @@ def upsert_entry(by_color, key, color_ja, aliases, model, hardware, title, url, 
     bag = model or ""
     hw = hardware[0] if hardware else ""
 
-    # Merge cross-source duplicate hits by product signature.
-    # User rule: same hit when bag+hardware match (e.g. ケリー + ゴールド金具).
+    # Merge only for the exact user-defined duplicate rule:
+    # same color + Kelly + Gold hardware across different sources.
     cbag = canonical_bag(bag)
     chw = canonical_hardware(hw)
-    for ex in entry["examples"]:
-        if canonical_bag(ex.get("bag", "")) == cbag and canonical_hardware(ex.get("hardware", "")) == chw and cbag and chw:
-            srcs = set(str(ex.get("source", "")).split("+"))
-            srcs.add(source)
-            ex["source"] = "+".join(sorted(s for s in srcs if s))
+    merge_allowed = (cbag == "kelly" and chw == "gold")
+    if merge_allowed:
+        for ex in entry["examples"]:
+            same_sig = canonical_bag(ex.get("bag", "")) == cbag and canonical_hardware(ex.get("hardware", "")) == chw
+            if not same_sig:
+                continue
+            existing_sources = set(str(ex.get("source", "")).split("+"))
+            if source in existing_sources:
+                # same source, keep as separate records to avoid over-merging
+                continue
+            existing_sources.add(source)
+            ex["source"] = "+".join(sorted(s for s in existing_sources if s))
+            # keep language provenance too
+            existing_langs = set(str(ex.get("lang", "")).split("+")) if ex.get("lang") else set()
+            if lang:
+                existing_langs.add(lang)
+            ex["lang"] = "+".join(sorted(l for l in existing_langs if l))
             return
 
     example = {
@@ -289,8 +306,11 @@ def main():
             continue
         hardware = detect_hardware(tokens, row["title"])
         color_ja = ""
-        if row["source"] == "xiaoma":
+        # For non-JA rows, prefer strict alias mapping to avoid noisy pseudo-colors.
+        if row.get("lang") != "ja":
             color_ja = infer_color_from_official_aliases(row["title"], aliases)
+            if not color_ja:
+                continue
         if not color_ja:
             color_ja = infer_color(tokens, model, hardware)
         if not color_ja:
